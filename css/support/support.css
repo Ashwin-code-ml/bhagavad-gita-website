@@ -1,0 +1,223 @@
+/* ================= GLOBAL RESET ================= */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+body {
+    background: linear-gradient(180deg, #0f0f14, #14141c);
+    color: #eaeaea;
+}
+
+/* ================= NAVBAR ================= */
+.navbar {
+    position: sticky;
+    top: 0;
+    background: rgba(15, 15, 18, 0.9);
+    backdrop-filter: blur(10px);
+    padding: 14px 22px;
+    display: flex;
+    align-items: center;
+    z-index: 10;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 18px;
+    flex-wrap: wrap;
+}
+
+.nav-links li {
+    list-style: none;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #ccc;
+    font-size: 14px;
+    position: relative;
+    white-space: nowrap;
+}
+
+.nav-links a::after {
+    content: "";
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #caa45c;
+    transition: width 0.25s ease;
+}
+
+.nav-links a:hover::after,
+.nav-links a.active::after {
+    width: 100%;
+}
+
+/* ================= MAIN CONTAINER ================= */
+.support-container {
+    max-width: 860px;
+    margin: 80px auto;
+    padding: 0 24px 60px;
+}
+
+/* ================= TEXT ================= */
+h1 {
+    font-size: clamp(24px, 4vw, 32px);
+    margin-bottom: 18px;
+}
+
+.intro {
+    font-size: 15px;
+    line-height: 1.7;
+    color: #cfcfd6;
+    margin-bottom: 14px;
+}
+
+.support-container ul {
+    margin-left: 18px;
+    margin-bottom: 14px;
+}
+
+.support-container li {
+    margin-bottom: 8px;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #d2d2da;
+}
+
+/* ================= UPI SECTION ================= */
+.upi-section {
+    margin-top: 40px;
+}
+
+.upi-section h2 {
+    font-size: 20px;
+    margin-bottom: 14px;
+}
+
+.upi-box {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: #17171b;
+    padding: 14px 16px;
+    border-radius: 12px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+}
+
+.upi-box span {
+    font-size: 14px;
+    word-break: break-all;
+    flex: 1;
+}
+
+.upi-box button {
+    padding: 8px 14px;
+    background: #caa45c;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+    color: #111;
+}
+
+/* ================= QR ================= */
+.qr-section {
+    margin-top: 10px;
+}
+
+.qr-section p {
+    margin-bottom: 8px;
+    color: #cfcfd6;
+}
+
+.qr-placeholder {
+    width: 180px;
+    height: 180px;
+    background: #222;
+    border-radius: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    opacity: 0.6;
+}
+
+/* ================= TELEGRAM ================= */
+.telegram-section {
+    margin-top: 50px;
+}
+
+.telegram-section p {
+    font-size: 15px;
+    color: #cfcfd6;
+    line-height: 1.6;
+}
+
+.telegram-btn {
+    margin-top: 16px;
+    padding: 12px 20px;
+    background: linear-gradient(135deg, #2AABEE, #229ED9);
+    border: none;
+    border-radius: 12px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.telegram-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 18px rgba(34,158,217,0.35);
+}
+
+/* ================= MOBILE ================= */
+@media (max-width: 768px) {
+
+    .navbar {
+        padding: 14px 18px;
+    }
+
+    .support-container {
+        margin: 50px auto;
+    }
+
+    .upi-box {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .upi-box button {
+        width: 100%;
+    }
+
+    .qr-placeholder {
+        width: 160px;
+        height: 160px;
+    }
+}
+
+/* ================= SMALL PHONES ================= */
+@media (max-width: 420px) {
+
+    h1 {
+        font-size: 22px;
+    }
+
+    .intro,
+    .support-container li,
+    .telegram-section p {
+        font-size: 14px;
+    }
+
+    .telegram-btn {
+        width: 100%;
+        text-align: center;
+    }
+}
