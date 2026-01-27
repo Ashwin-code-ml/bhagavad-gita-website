@@ -1,0 +1,439 @@
+{
+  "chapter": 2,
+  "name": "Sankhya Yoga",
+  "shlokas": [
+    {
+      "number": 1,
+      "sanskrit": "सञ्जय उवाच। तं तथा कृपयाऽऽविष्टमश्रुपूर्णाकुलेक्षणम्। विषीदन्तमिदं वाक्यमुवाच मधुसूदनः॥",
+      "hindi": "संजय ने कहा—करुणा से व्याप्त, आँसुओं से भरी आँखों वाले और शोकग्रस्त अर्जुन से मधुसूदन श्रीकृष्ण ने यह वचन कहा।",
+      "english": "Sanjaya said: To Arjuna, who was overwhelmed with compassion, his eyes filled with tears and grief, Madhusudana spoke these words."
+    },
+    {
+      "number": 2,
+      "sanskrit": "कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम्। अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन॥",
+      "hindi": "श्री भगवान ने कहा—हे अर्जुन! इस संकट की घड़ी में यह मोह तुम्हें कैसे आ गया? यह न तो आर्यजनों के योग्य है, न स्वर्ग देने वाला और न कीर्ति बढ़ाने वाला।",
+      "english": "The Blessed Lord said: From where has this dejection come upon you at this critical moment? It is unworthy of a noble person and leads neither to heaven nor honor."
+    },
+    {
+      "number": 3,
+      "sanskrit": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते। क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप॥",
+      "hindi": "हे पार्थ! इस कायरता को मत अपनाओ। यह तुम्हारे योग्य नहीं है। हृदय की तुच्छ दुर्बलता को त्यागकर उठो, हे शत्रुओं को दमन करने वाले!",
+      "english": "Yield not to weakness, O Partha. It does not become you. Cast off this petty faint-heartedness and arise, O scorcher of enemies."
+    },
+    {
+      "number": 4,
+      "sanskrit": "अर्जुन उवाच। कथं भीष्ममहं संख्ये द्रोणं च मधुसूदन। इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन॥",
+      "hindi": "अर्जुन ने कहा—हे मधुसूदन! युद्ध में मैं भीष्म और द्रोण जैसे पूजनीय गुरुओं पर बाण कैसे चलाऊँ?",
+      "english": "Arjuna said: O Madhusudana, how shall I fight with arrows against Bhishma and Drona, who are worthy of worship?"
+    },
+    {
+      "number": 5,
+      "sanskrit": "गुरूनहत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपीह लोके। हत्वार्थकामांस्तु गुरूनिहैव भुञ्जीय भोगान्रुधिरप्रदिग्धान्॥",
+      "hindi": "ऐसे महान गुरुओं को मारने की अपेक्षा इस लोक में भिक्षा से जीवन यापन करना अधिक श्रेष्ठ है; उन्हें मारकर तो रक्तरंजित भोग ही भोगने पड़ेंगे।",
+      "english": "Better indeed is it to live in this world by begging than to slay these noble teachers; by killing them, even though they seek worldly gain, we would enjoy pleasures stained with blood."
+    },
+    {
+      "number": 6,
+      "sanskrit": "न चैतद्विद्मः कतरन्नो गरीयो यद्वा जयेम यदि वा नो जयेयुः। यानेव हत्वा न जिजीविषामस्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः॥",
+      "hindi": "हम यह भी नहीं जानते कि हमारे लिए क्या श्रेष्ठ है—हम जीतें या वे हमें जीत लें; जिन्हें मारकर हम जीना नहीं चाहते, वही धृतराष्ट्र के पुत्र सामने खड़े हैं।",
+      "english": "We do not know which is better for us—whether we conquer them or they conquer us. The sons of Dhritarashtra stand before us, having slain whom we would not wish to live."
+    },
+    {
+      "number": 7,
+      "sanskrit": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः। यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्॥",
+      "hindi": "करुणा दोष से ग्रस्त और धर्म के विषय में मोहित हुआ मैं आपसे पूछता हूँ—जो निश्चयपूर्वक मेरे लिए श्रेयस्कर हो, वह बताइए; मैं आपका शिष्य हूँ, आपकी शरण में आया हूँ।",
+      "english": "My nature is overcome by weakness; my mind is confused about duty. I ask You: tell me decisively what is good for me. I am Your disciple; instruct me who has taken refuge in You."
+    },
+    {
+      "number": 8,
+      "sanskrit": "न हि प्रपश्यामि ममापनुद्याद्यच्छोकमुच्छोषणमिन्द्रियाणाम्। अवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम्॥",
+      "hindi": "मैं ऐसा कुछ नहीं देखता जो मेरी इंद्रियों को सुखा देने वाले इस शोक को दूर कर सके—चाहे मुझे पृथ्वी का निष्कंटक राज्य या देवताओं का आधिपत्य भी मिल जाए।",
+      "english": "I do not see anything that can dispel this sorrow that dries up my senses, even if I were to gain unrivaled sovereignty on earth or lordship over the gods."
+    },
+    {
+      "number": 9,
+      "sanskrit": "सञ्जय उवाच। एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तपः। न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह॥",
+      "hindi": "संजय ने कहा—हे परंतप! इस प्रकार हृषीकेश श्रीकृष्ण से कहकर अर्जुन ने ‘मैं युद्ध नहीं करूँगा’ ऐसा कहकर चुप हो गया।",
+      "english": "Sanjaya said: Having thus spoken to Hrishikesha, Arjuna, the scorcher of enemies, said, 'I will not fight,' and fell silent."
+    },
+    {
+      "number": 10,
+      "sanskrit": "तमुवाच हृषीकेशः प्रहसन्निव भारत। सेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः॥",
+      "hindi": "हे भारत! दोनों सेनाओं के बीच शोक करते हुए अर्जुन से श्रीकृष्ण मानो मुस्कराते हुए ये वचन बोले।",
+      "english": "O Bharata, then Hrishikesha spoke these words to the grief-stricken Arjuna, as if smiling, between the two armies."
+    },
+
+    {
+      "number": 11,
+      "sanskrit": "अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे। गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः॥",
+      "hindi": "श्रीकृष्ण बोले—तुम शोक न करने योग्य लोगों के लिए शोक कर रहे हो और ज्ञान की बातें कर रहे हो; ज्ञानी जीवित या मृत किसी के लिए शोक नहीं करते।",
+      "english": "The Blessed Lord said: You grieve for those who should not be grieved for, yet you speak words of wisdom. The wise do not grieve for the living or the dead."
+    },
+    {
+      "number": 12,
+      "sanskrit": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः। न चैव न भविष्यामः सर्वे वयमतः परम्॥",
+      "hindi": "ऐसा कभी नहीं हुआ कि मैं न रहा होऊँ, या तुम न रहे हो, या ये राजागण न रहे हों; और आगे भी हम सब कभी न रहेंगे ऐसा नहीं है।",
+      "english": "Never was there a time when I did not exist, nor you, nor these kings; nor will there be a time in the future when we shall cease to be."
+    },
+    {
+      "number": 13,
+      "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा। तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति॥",
+      "hindi": "जिस प्रकार देहधारी को इस शरीर में बाल्य, यौवन और वृद्धावस्था प्राप्त होती है, उसी प्रकार उसे दूसरे शरीर की प्राप्ति होती है; धीर पुरुष इसमें मोहित नहीं होता।",
+      "english": "Just as the embodied soul passes through childhood, youth, and old age, so it passes into another body. The wise are not deluded by this."
+    },
+    {
+      "number": 14,
+      "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः। आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥",
+      "hindi": "हे कुन्तीपुत्र! इंद्रियों के विषयों से उत्पन्न शीत-उष्ण, सुख-दुःख आने-जाने वाले और अनित्य हैं; हे भारत! उन्हें सहन करो।",
+      "english": "O son of Kunti, the contacts of the senses with objects give rise to cold and heat, pleasure and pain; they are temporary—endure them, O Bharata."
+    },
+    {
+      "number": 15,
+      "sanskrit": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ। समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते॥",
+      "hindi": "हे पुरुषश्रेष्ठ! जिसे ये सुख-दुःख विचलित नहीं करते और जो समभाव में स्थित है, वही अमरत्व के योग्य होता है।",
+      "english": "That person whom these do not disturb, who is steady in pleasure and pain, is fit for immortality."
+    },
+    {
+      "number": 16,
+      "sanskrit": "नासतो विद्यते भावो नाभावो विद्यते सतः। उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः॥",
+      "hindi": "असत का अस्तित्व नहीं है और सत का अभाव नहीं है; तत्वदर्शियों ने इन दोनों का अंत देखा है।",
+      "english": "The unreal has no existence; the real never ceases to be. The truth about both has been seen by the seers of reality."
+    },
+    {
+      "number": 17,
+      "sanskrit": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम्। विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति॥",
+      "hindi": "यह जानो कि जिससे यह सम्पूर्ण जगत व्याप्त है, वह अविनाशी है; इस अव्यय का विनाश कोई नहीं कर सकता।",
+      "english": "Know that to be indestructible by which all this is pervaded. No one can destroy this imperishable."
+    },
+    {
+      "number": 18,
+      "sanskrit": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः। अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत॥",
+      "hindi": "इन नाशवान शरीरों का अंत होता है, जबकि शरीरधारी आत्मा नित्य और अविनाशी है; इसलिए युद्ध करो, हे भारत।",
+      "english": "These bodies are perishable, but the embodied soul is eternal and indestructible. Therefore, fight, O Bharata."
+    },
+    {
+      "number": 19,
+      "sanskrit": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्। उभौ तौ न विजानीतो नायं हन्ति न हन्यते॥",
+      "hindi": "जो इसे मारने वाला समझता है और जो इसे मरा हुआ मानता है—दोनों ही नहीं जानते; यह न मारता है और न मारा जाता है।",
+      "english": "He who thinks this soul kills and he who thinks it is killed—both do not understand. It neither kills nor is killed."
+    },
+    {
+      "number": 20,
+      "sanskrit": "न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः। अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥",
+      "hindi": "यह आत्मा कभी जन्म नहीं लेती, न मरती है; यह अजन्मा, नित्य, शाश्वत और पुरातन है; शरीर के नष्ट होने पर भी यह नष्ट नहीं होती।",
+      "english": "The soul is never born nor does it die; it is unborn, eternal, ever-existing, and primeval; it is not slain when the body is slain."
+    },
+{
+  "number": 21,
+  "sanskrit": "वेदाविनाशिनं नित्यं य एनमजमव्ययम्। कथं स पुरुषः पार्थ कं घातयति हन्ति कम्॥",
+  "hindi": "हे पार्थ! जो इस आत्मा को अविनाशी, नित्य, अजन्मा और अव्यय जानता है, वह किसे मारता है और किससे मरवाता है?",
+  "english": "O Partha, how can a person who knows the soul to be indestructible, eternal, unborn, and immutable kill anyone or cause anyone to be killed?"
+},
+{
+  "number": 22,
+  "sanskrit": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि। तथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही॥",
+  "hindi": "जिस प्रकार मनुष्य पुराने वस्त्रों को त्यागकर नए वस्त्र धारण करता है, उसी प्रकार आत्मा पुराने शरीरों को छोड़कर नए शरीर धारण करती है।",
+  "english": "As a person casts off worn-out garments and puts on new ones, so the soul casts off worn-out bodies and enters new ones."
+},
+{
+  "number": 23,
+  "sanskrit": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः। न चैनं क्लेदयन्त्यापो न शोषयति मारुतः॥",
+  "hindi": "इस आत्मा को शस्त्र काट नहीं सकते, अग्नि जला नहीं सकती, जल भिगो नहीं सकता और वायु सुखा नहीं सकती।",
+  "english": "Weapons do not cut the soul, fire does not burn it, water does not wet it, and wind does not dry it."
+},
+{
+  "number": 24,
+  "sanskrit": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च। नित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः॥",
+  "hindi": "यह आत्मा न काटी जा सकती है, न जलाई जा सकती है, न भिगोई जा सकती है और न सुखाई जा सकती है; यह नित्य, सर्वव्यापक, स्थिर, अचल और सनातन है।",
+  "english": "This soul is unbreakable, fireproof, waterproof, and windproof; it is eternal, all-pervading, immovable, and everlasting."
+},
+{
+  "number": 25,
+  "sanskrit": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते। तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि॥",
+  "hindi": "यह आत्मा अव्यक्त, अचिन्त्य और अविकार्य कही जाती है; इसलिए इसे जानकर तुम्हें शोक नहीं करना चाहिए।",
+  "english": "It is said that the soul is invisible, inconceivable, and immutable; therefore, knowing this, you should not grieve."
+},
+{
+  "number": 26,
+  "sanskrit": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम्। तथापि त्वं महाबाहो नैवं शोचितुमर्हसि॥",
+  "hindi": "हे महाबाहु! यदि तुम इसे सदा जन्म लेने वाला या सदा मरने वाला भी मानो, तब भी तुम्हें शोक नहीं करना चाहिए।",
+  "english": "Even if you think the soul is constantly born and constantly dies, O mighty-armed one, you should not grieve."
+},
+{
+  "number": 27,
+  "sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च। तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि॥",
+  "hindi": "जो जन्मा है उसकी मृत्यु निश्चित है और जो मरा है उसका जन्म निश्चित है; इसलिए इस अनिवार्य विषय में शोक उचित नहीं है।",
+  "english": "For one who is born, death is certain, and for one who has died, birth is certain; therefore, you should not grieve over the inevitable."
+},
+{
+  "number": 28,
+  "sanskrit": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत। अव्यक्तनिधनान्येव तत्र का परिदेवना॥",
+  "hindi": "हे भारत! प्राणी जन्म से पहले अव्यक्त होते हैं, बीच में व्यक्त होते हैं और अंत में फिर अव्यक्त हो जाते हैं—इसमें शोक कैसा?",
+  "english": "O Bharata, beings are unmanifest in the beginning, manifest in the middle, and unmanifest again in the end; what cause is there for lamentation?"
+},
+{
+  "number": 29,
+  "sanskrit": "आश्चर्यवत्पश्यति कश्चिदेनमाश्चर्यवद्वदति तथैव चान्यः। आश्चर्यवच्चैनमन्यः शृणोति श्रुत्वाऽप्येनं वेद न चैव कश्चित्॥",
+  "hindi": "कोई इसे आश्चर्य की तरह देखता है, कोई आश्चर्य की तरह कहता है, कोई आश्चर्य की तरह सुनता है, और सुनकर भी कोई इसे नहीं समझ पाता।",
+  "english": "Some look upon the soul as amazing, some speak of it as amazing, some hear of it as amazing, and others, even after hearing, do not understand it."
+},
+{
+  "number": 30,
+  "sanskrit": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत। तस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि॥",
+  "hindi": "हे भारत! सभी शरीरों में स्थित यह आत्मा नित्य अवध्य है; इसलिए किसी भी प्राणी के लिए शोक मत करो।",
+  "english": "O Bharata, the embodied soul in all beings is eternal and cannot be slain; therefore, you should not grieve for any being."
+},
+{
+  "number": 31,
+  "sanskrit": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि। धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते॥",
+  "hindi": "अपने स्वधर्म को देखकर भी तुम्हें विचलित नहीं होना चाहिए, क्योंकि क्षत्रिय के लिए धर्मयुद्ध से श्रेष्ठ कोई कर्म नहीं है।",
+  "english": "Considering your duty also, you should not waver, for there is nothing better for a warrior than a righteous war."
+},
+{
+  "number": 32,
+  "sanskrit": "यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम्। सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम्॥",
+  "hindi": "हे पार्थ! ऐसे युद्ध को प्राप्त कर क्षत्रिय प्रसन्न होते हैं, क्योंकि यह उनके लिए स्वर्ग का द्वार खोल देता है।",
+  "english": "O Partha, happy are the warriors who obtain such a battle that comes of its own accord, opening the doors of heaven."
+},
+{
+  "number": 33,
+  "sanskrit": "अथ चेत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि। ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि॥",
+  "hindi": "यदि तुम इस धर्मयुद्ध को नहीं करोगे, तो अपना स्वधर्म और कीर्ति त्यागकर पाप को प्राप्त करोगे।",
+  "english": "But if you do not fight this righteous war, then having abandoned your duty and honor, you will incur sin."
+},
+{
+  "number": 34,
+  "sanskrit": "अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम्। सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते॥",
+  "hindi": "लोग तुम्हारी सदा रहने वाली अपकीर्ति का वर्णन करेंगे, और सम्मानित पुरुष के लिए अपकीर्ति मृत्यु से भी बढ़कर है।",
+  "english": "People will also speak of your everlasting infamy, and for one who has been honored, dishonor is worse than death."
+},
+{
+  "number": 35,
+  "sanskrit": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः। येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम्॥",
+  "hindi": "जिन महान योद्धाओं ने तुम्हें सम्मान दिया है, वे सोचेंगे कि तुम भय से युद्ध छोड़कर भाग गए, और वे तुम्हें तुच्छ समझेंगे।",
+  "english": "The great warriors who have highly esteemed you will think that you withdrew from the battle out of fear and will regard you as insignificant."
+},
+{
+  "number": 36,
+  "sanskrit": "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः। निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम्॥",
+  "hindi": "तुम्हारे शत्रु तुम्हारे सामर्थ्य की निंदा करते हुए अनेक अपमानजनक बातें कहेंगे; इससे अधिक दुःखद क्या होगा?",
+  "english": "Your enemies will speak many unkind words, censuring your ability; what could be more painful than that?"
+},
+{
+  "number": 37,
+  "sanskrit": "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम्। तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः॥",
+  "hindi": "मारे जाने पर तुम स्वर्ग को प्राप्त करोगे और जीतने पर पृथ्वी का राज्य भोगोगे; इसलिए उठो, हे कुन्तीपुत्र, युद्ध का निश्चय करके।",
+  "english": "Slain, you will attain heaven; victorious, you will enjoy the earth. Therefore arise, O son of Kunti, resolved to fight."
+},
+{
+  "number": 38,
+  "sanskrit": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ। ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि॥",
+  "hindi": "सुख-दुःख, लाभ-हानि, जय-पराजय को समान मानकर युद्ध करो; इस प्रकार तुम पाप को प्राप्त नहीं करोगे।",
+  "english": "Treating pleasure and pain, gain and loss, victory and defeat alike, engage in battle; thus you shall not incur sin."
+},
+{
+  "number": 39,
+  "sanskrit": "एषा तेऽभिहिता सांख्ये बुद्धिर्योगे त्विमां शृणु। बुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि॥",
+  "hindi": "यह बुद्धि तुम्हें सांख्य के अनुसार बताई गई है; अब योग के अनुसार सुनो, जिससे युक्त होकर तुम कर्मबंधन से मुक्त हो जाओगे।",
+  "english": "This wisdom has been explained to you from the standpoint of Sankhya; now listen to it from the standpoint of Yoga, by practicing which you will be freed from the bondage of action."
+},
+{
+  "number": 40,
+  "sanskrit": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते। स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्॥",
+  "hindi": "इस मार्ग में न तो प्रयास का नाश होता है और न ही कोई प्रतिकूल परिणाम होता है; इस धर्म का थोड़ा सा भी अभ्यास महान भय से बचा लेता है।",
+  "english": "In this path there is no loss of effort and no adverse result; even a little practice of this discipline protects one from great fear."
+},
+{
+  "number": 41,
+  "sanskrit": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन। बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम्॥",
+  "hindi": "हे कुरुनन्दन! इस मार्ग में निश्चयात्मक बुद्धि एक ही होती है, किंतु अनिश्चयी लोगों की बुद्धियाँ अनेक और अनंत शाखाओं वाली होती हैं।",
+  "english": "O son of the Kurus, in this path there is one-pointed determination, but the intelligence of the irresolute is many-branched and endless."
+},
+{
+  "number": 42,
+  "sanskrit": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः। वेदवादरताः पार्थ नान्यदस्तीति वादिनः॥",
+  "hindi": "हे पार्थ! अविवेकी लोग वेदों के कर्मकांड से युक्त आकर्षक वाणी बोलते हैं और कहते हैं कि इससे श्रेष्ठ कुछ नहीं है।",
+  "english": "O Partha, the unwise speak flowery words, delighting in the rituals of the Vedas, declaring that there is nothing else."
+},
+{
+  "number": 43,
+  "sanskrit": "कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम्। क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति॥",
+  "hindi": "वे लोग कामनाओं में डूबे हुए, स्वर्ग को ही लक्ष्य मानते हैं और भोग तथा ऐश्वर्य प्राप्त करने के लिए अनेक कर्म बताते हैं।",
+  "english": "With desires as their motive and heaven as their goal, they prescribe various rites that result in rebirth and enjoyment."
+},
+{
+  "number": 44,
+  "sanskrit": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम्। व्यवसायात्मिका बुद्धिः समाधौ न विधीयते॥",
+  "hindi": "भोग और ऐश्वर्य में आसक्त लोगों की बुद्धि समाधि में स्थिर नहीं होती।",
+  "english": "For those who are attached to pleasure and power, whose minds are stolen away by such things, resolute determination for spiritual realization does not arise."
+},
+{
+  "number": 45,
+  "sanskrit": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन। निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान्॥",
+  "hindi": "हे अर्जुन! वेद तीन गुणों से संबंधित हैं; तुम तीनों गुणों से ऊपर उठो, द्वंद्वों से मुक्त, नित्य सत्त्व में स्थित और आत्मसंयमी बनो।",
+  "english": "The Vedas deal with the three modes of nature; rise above these modes, O Arjuna, be free from dualities, ever established in purity, and self-controlled."
+},
+{
+  "number": 46,
+  "sanskrit": "यावानर्थ उदपाने सर्वतः संप्लुतोदके। तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः॥",
+  "hindi": "जैसे चारों ओर जल से भरे सरोवर के रहते कुएँ का उपयोग सीमित होता है, वैसे ही ज्ञानी ब्राह्मण के लिए वेदों का प्रयोजन सीमित हो जाता है।",
+  "english": "To the enlightened person, the Vedas are of as much use as a small well when everywhere there is a flood of water."
+},
+{
+  "number": 47,
+  "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+  "hindi": "तुम्हारा अधिकार केवल कर्म करने में है, फल में कभी नहीं; न तो कर्मफल का हेतु बनो और न अकर्म में आसक्त हो।",
+  "english": "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action. Never consider yourself the cause of the results, nor be attached to inaction."
+},
+{
+  "number": 48,
+  "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥",
+  "hindi": "हे धनंजय! आसक्ति त्यागकर और सफलता-असफलता में सम रहकर योग में स्थित होकर कर्म करो—यही योग है।",
+  "english": "Perform your duty established in yoga, abandoning attachment, and remaining even-minded in success and failure. Such equanimity is called yoga."
+},
+{
+  "number": 49,
+  "sanskrit": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय। बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः॥",
+  "hindi": "हे धनंजय! बुद्धियोग की अपेक्षा सकाम कर्म अत्यंत तुच्छ है; इसलिए बुद्धि की शरण लो, क्योंकि फल की इच्छा करने वाले कृपण हैं।",
+  "english": "O Dhananjaya, action motivated by desire for fruits is far inferior to the yoga of wisdom. Seek refuge in wisdom; those who seek rewards are miserly."
+},
+{
+  "number": 50,
+  "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते। तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्॥",
+  "hindi": "बुद्धियोग से युक्त व्यक्ति इस जीवन में ही पुण्य और पाप दोनों को त्याग देता है; इसलिए योग में स्थित हो—योग कर्मों में कुशलता है।",
+  "english": "Endowed with wisdom, one discards both good and evil deeds here; therefore engage in yoga, for yoga is skill in action."
+},
+{
+  "number": 51,
+  "sanskrit": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः। जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्॥",
+  "hindi": "बुद्धियोग से युक्त ज्ञानीजन कर्मफल का त्याग कर जन्मबंधन से मुक्त होकर परम पद को प्राप्त होते हैं।",
+  "english": "The wise, possessed of knowledge, abandoning the fruits of actions, become free from the bondage of birth and attain the state beyond sorrow."
+},
+{
+  "number": 52,
+  "sanskrit": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति। तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च॥",
+  "hindi": "जब तुम्हारी बुद्धि मोह रूपी कीचड़ को पार कर जाएगी, तब तुम सुने और सुनने योग्य विषयों से विरक्ति प्राप्त करोगे।",
+  "english": "When your intellect crosses beyond the mire of delusion, then you will become indifferent to what has been heard and what is yet to be heard."
+},
+{
+  "number": 53,
+  "sanskrit": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला। समाधावचला बुद्धिस्तदा योगमवाप्स्यसि॥",
+  "hindi": "जब वेदों की विविध बातों से विचलित तुम्हारी बुद्धि स्थिर होकर समाधि में स्थित हो जाएगी, तब तुम योग को प्राप्त करोगे।",
+  "english": "When your intellect, though bewildered by the Vedas, stands firm and steady in meditation, then you will attain yoga."
+},
+{
+  "number": 54,
+  "sanskrit": "अर्जुन उवाच। स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव। स्थितधीः किं प्रभाषेत किमासीत व्रजेत किम्॥",
+  "hindi": "अर्जुन ने कहा—हे केशव! समाधि में स्थित स्थितप्रज्ञ पुरुष का लक्षण क्या है? वह कैसे बोलता है, बैठता है और चलता है?",
+  "english": "Arjuna said: O Keshava, what is the description of one who is steady in wisdom and established in meditation? How does such a person speak, sit, and walk?"
+},
+{
+  "number": 55,
+  "sanskrit": "श्रीभगवानुवाच। प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान्। आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते॥",
+  "hindi": "श्रीभगवान बोले—हे पार्थ! जब मनुष्य मन में स्थित सभी कामनाओं को त्याग देता है और आत्मा में ही संतुष्ट रहता है, तब वह स्थितप्रज्ञ कहलाता है।",
+  "english": "The Blessed Lord said: When one gives up all desires arising in the mind and is satisfied in the Self alone, then one is said to be steady in wisdom."
+},
+{
+  "number": 56,
+  "sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः। वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते॥",
+  "hindi": "जो दुःखों में विचलित नहीं होता, सुखों में आसक्त नहीं होता और राग, भय तथा क्रोध से रहित है—वह स्थितधी मुनि कहलाता है।",
+  "english": "One whose mind is not disturbed in sorrow, who is free from craving for pleasure, and who is free from attachment, fear, and anger is called a sage of steady wisdom."
+},
+{
+  "number": 57,
+  "sanskrit": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम्। नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता॥",
+  "hindi": "जो शुभ या अशुभ को पाकर न हर्षित होता है और न द्वेष करता है, उसकी बुद्धि स्थिर होती है।",
+  "english": "He who is unattached everywhere, who neither rejoices nor hates upon obtaining good or evil, his wisdom is firmly established."
+},
+{
+  "number": 58,
+  "sanskrit": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः। इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता॥",
+  "hindi": "जब यह पुरुष कछुए की तरह अपने अंगों को समेट लेता है और इंद्रियों को विषयों से हटा लेता है, तब उसकी बुद्धि स्थिर होती है।",
+  "english": "When one withdraws the senses from sense objects, as a tortoise withdraws its limbs, his wisdom is firmly established."
+},
+{
+  "number": 59,
+  "sanskrit": "विषया विनिवर्तन्ते निराहारस्य देहिनः। रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते॥",
+  "hindi": "इंद्रिय विषय उपवास करने वाले के लिए तो हट जाते हैं, पर स्वाद नहीं हटता; परन्तु परम तत्व का दर्शन होने पर वह भी निवृत्त हो जाता है।",
+  "english": "Sense objects fall away for one who abstains from them, but the taste for them remains; even that taste ceases for one who has seen the Supreme."
+},
+{
+  "number": 60,
+  "sanskrit": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः। इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः॥",
+  "hindi": "हे कुन्तीपुत्र! प्रयत्नशील और विवेकी पुरुष का भी मन बलात् इंद्रियाँ खींच लेती हैं।",
+  "english": "The turbulent senses, O son of Kunti, violently carry away the mind even of a wise person who is striving."
+},
+{
+  "number": 61,
+  "sanskrit": "तानि सर्वाणि संयम्य युक्त आसीत मत्परः। वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता॥",
+  "hindi": "उन सभी इंद्रियों को संयमित कर मेरे परायण होकर स्थित हो; जिसकी इंद्रियाँ वश में होती हैं, उसकी बुद्धि स्थिर होती है।",
+  "english": "Having restrained all the senses, one should remain disciplined, intent on Me; for one whose senses are under control, wisdom is firmly established."
+},
+{
+  "number": 62,
+  "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते। सङ्गात्संजायते कामः कामात्क्रोधोऽभिजायते॥",
+  "hindi": "विषयों का चिंतन करने से उनमें आसक्ति उत्पन्न होती है; आसक्ति से कामना और कामना से क्रोध उत्पन्न होता है।",
+  "english": "While contemplating the objects of the senses, attachment arises; from attachment comes desire, and from desire arises anger."
+},
+{
+  "number": 63,
+  "sanskrit": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः। स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥",
+  "hindi": "क्रोध से मोह, मोह से स्मृति का भ्रम, स्मृति भ्रम से बुद्धि का नाश और बुद्धि नाश से मनुष्य का पतन होता है।",
+  "english": "From anger comes delusion; from delusion, loss of memory; from loss of memory, destruction of intelligence; and from destruction of intelligence, one perishes."
+},
+{
+  "number": 64,
+  "sanskrit": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन्। आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति॥",
+  "hindi": "राग और द्वेष से मुक्त, आत्मवश में स्थित मनुष्य इंद्रियों द्वारा विषयों का सेवन करता हुआ भी शांति प्राप्त करता है।",
+  "english": "But one who moves among the sense objects with the senses under control, free from attachment and aversion, attains tranquility."
+},
+{
+  "number": 65,
+  "sanskrit": "प्रसादे सर्वदुःखानां हानिरस्योपजायते। प्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते॥",
+  "hindi": "शांति प्राप्त होने पर सभी दुःखों का नाश हो जाता है और प्रसन्नचित्त व्यक्ति की बुद्धि शीघ्र स्थिर हो जाती है।",
+  "english": "In tranquility, all sorrows are destroyed; for the intellect of the tranquil-minded soon becomes steady."
+},
+{
+  "number": 66,
+  "sanskrit": "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना। न चाभावयतः शान्तिरशान्तस्य कुतः सुखम्॥",
+  "hindi": "असंयमी व्यक्ति में न बुद्धि होती है, न ध्यान; बिना ध्यान के शांति नहीं और बिना शांति के सुख कैसे?",
+  "english": "There is no wisdom for one who is undisciplined, and no meditation for one without wisdom; without meditation there is no peace, and without peace, how can there be happiness?"
+},
+{
+  "number": 67,
+  "sanskrit": "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते। तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि॥",
+  "hindi": "जिस प्रकार जल में चलती नाव को वायु बहा ले जाती है, उसी प्रकार इंद्रियों के पीछे चलने वाला मन बुद्धि को हर ले जाता है।",
+  "english": "As the wind carries away a boat on the water, so the mind that follows the roaming senses carries away wisdom."
+},
+{
+  "number": 68,
+  "sanskrit": "तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः। इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता॥",
+  "hindi": "इसलिए हे महाबाहु! जिसकी इंद्रियाँ विषयों से पूरी तरह संयमित हैं, उसकी बुद्धि स्थिर होती है।",
+  "english": "Therefore, O mighty-armed one, one whose senses are completely restrained from their objects, his wisdom is firmly established."
+},
+{
+  "number": 69,
+  "sanskrit": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी। यस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः॥",
+  "hindi": "जो सब प्राणियों के लिए रात्रि है, उसमें संयमी जागता है; और जिसमें प्राणी जागते हैं, वह ज्ञानी मुनि के लिए रात्रि है।",
+  "english": "That which is night for all beings is awakening for the self-controlled; and that in which beings are awake is night for the sage who sees."
+},
+{
+  "number": 70,
+  "sanskrit": "आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्। तद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी॥",
+  "hindi": "जिस प्रकार नदियाँ समुद्र में प्रवेश करती हैं और वह स्थिर रहता है, उसी प्रकार कामनाएँ जिस पुरुष में प्रवेश करती हैं और वह विचलित नहीं होता, वही शांति पाता है।",
+  "english": "As waters enter the ocean, which remains full and unmoved, so desires enter one who is steady; he attains peace, not the one who seeks desires."
+},
+{
+  "number": 71,
+  "sanskrit": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः। निर्ममो निरहङ्कारः स शान्तिमधिगच्छति॥",
+  "hindi": "जो सभी कामनाओं को त्यागकर, ममता और अहंकार से रहित होकर, निस्पृह विचरण करता है, वही शांति को प्राप्त होता है।",
+  "english": "One who abandons all desires and moves about without longing, without the sense of 'mine' and without ego, attains peace."
+},
+{
+  "number": 72,
+  "sanskrit": "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति। स्थित्वाऽस्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति॥",
+  "hindi": "हे पार्थ! यह ब्राह्मी स्थिति है; इसे प्राप्त कर मनुष्य मोहित नहीं होता और अंतकाल में भी इसमें स्थित होकर ब्रह्मनिर्वाण को प्राप्त करता है।",
+  "english": "This is the Brahmic state, O Partha. Attaining this, one is not deluded, and being established in it even at the hour of death, one attains liberation in Brahman."
+}
+  ]
+}

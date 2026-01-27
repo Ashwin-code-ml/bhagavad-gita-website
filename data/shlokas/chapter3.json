@@ -1,0 +1,264 @@
+{
+  "chapter": 3,
+  "name": "Karma Yoga",
+  "shlokas": [
+    {
+      "number": 1,
+      "sanskrit": "अर्जुन उवाच। ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन। तत्किं कर्मणि घोरे मां नियोजयसि केशव॥",
+      "hindi": "अर्जुन ने कहा—हे जनार्दन! यदि आपकी बुद्धि में कर्म से ज्ञान श्रेष्ठ है, तो हे केशव! मुझे इस भयानक कर्म में क्यों प्रवृत्त करते हैं?",
+      "english": "Arjuna said: O Janardana, if You consider knowledge superior to action, then why do You urge me to engage in this terrible action, O Keshava?"
+    },
+    {
+      "number": 2,
+      "sanskrit": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे। तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम्॥",
+      "hindi": "आप मिश्रित वचनों से मेरी बुद्धि को भ्रमित कर रहे हैं; कृपया एक ही मार्ग निश्चित रूप से बताइए जिससे मुझे श्रेय प्राप्त हो।",
+      "english": "By confusing words, You seem to bewilder my understanding. Tell me decisively the one path by which I may attain the highest good."
+    },
+    {
+      "number": 3,
+      "sanskrit": "श्रीभगवानुवाच। लोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ। ज्ञानयोगेन सांख्यानां कर्मयोगेन योगिनाम्॥",
+      "hindi": "श्रीभगवान बोले—हे निष्पाप! इस संसार में पहले दो प्रकार की निष्ठाएँ बताई गई हैं—ज्ञानयोग सांख्य योगियों के लिए और कर्मयोग कर्मयोगियों के लिए।",
+      "english": "The Blessed Lord said: O sinless one, in this world two paths were taught by Me before—knowledge for the contemplative and action for the active."
+    },
+    {
+      "number": 4,
+      "sanskrit": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते। न च संन्यसनादेव सिद्धिं समधिगच्छति॥",
+      "hindi": "केवल कर्म न करने से मनुष्य नैष्कर्म्य को प्राप्त नहीं होता और केवल संन्यास से ही सिद्धि नहीं मिलती।",
+      "english": "Not by merely abstaining from action does one attain freedom from action, nor by renunciation alone does one attain perfection."
+    },
+    {
+      "number": 5,
+      "sanskrit": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत्। कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः॥",
+      "hindi": "कोई भी व्यक्ति क्षणमात्र भी बिना कर्म किए नहीं रह सकता; सभी को प्रकृति के गुणों द्वारा विवश होकर कर्म करना पड़ता है।",
+      "english": "No one can remain even for a moment without performing action; everyone is compelled to act by the qualities born of nature."
+    },
+    {
+      "number": 6,
+      "sanskrit": "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन्। इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते॥",
+      "hindi": "जो कर्मेंद्रियों को रोककर मन से विषयों का चिंतन करता है, वह मोहित आत्मा मिथ्याचारी कहलाता है।",
+      "english": "One who restrains the organs of action but dwells in the mind on sense objects is deluded and called a hypocrite."
+    },
+    {
+      "number": 7,
+      "sanskrit": "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन। कर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते॥",
+      "hindi": "हे अर्जुन! जो मन से इंद्रियों को नियंत्रित कर आसक्ति रहित होकर कर्मयोग का आचरण करता है, वही श्रेष्ठ है।",
+      "english": "But one who controls the senses by the mind and engages the organs of action in karma yoga without attachment is superior."
+    },
+    {
+      "number": 8,
+      "sanskrit": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः। शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः॥",
+      "hindi": "नियत कर्म करो, क्योंकि कर्म न करने से कर्म करना श्रेष्ठ है; बिना कर्म के शरीर का निर्वाह भी संभव नहीं।",
+      "english": "Perform your prescribed duty, for action is better than inaction; even the maintenance of the body would not be possible without action."
+    },
+    {
+      "number": 9,
+      "sanskrit": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः। तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर॥",
+      "hindi": "यज्ञ के लिए किए गए कर्म के अतिरिक्त अन्य कर्म बंधन उत्पन्न करते हैं; इसलिए हे कुन्तीपुत्र! आसक्ति त्यागकर यज्ञार्थ कर्म करो।",
+      "english": "Work done as a sacrifice for Vishnu has to be performed; otherwise work causes bondage. Therefore, O son of Kunti, perform your duties without attachment."
+    },
+    {
+      "number": 10,
+      "sanskrit": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः। अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक्॥",
+      "hindi": "सृष्टि के आरंभ में प्रजापति ने यज्ञ सहित प्रजा को रचकर कहा—इससे तुम वृद्धि करो और यह तुम्हारी इच्छाओं को पूर्ण करने वाला हो।",
+      "english": "In the beginning, the Creator created beings along with sacrifice and said: By this you shall prosper; let this be the fulfiller of your desires."
+    },
+    {
+      "number": 11,
+      "sanskrit": "देवान्भावयतानेन ते देवा भावयन्तु वः। परस्परं भावयन्तः श्रेयः परमवाप्स्यथ॥",
+      "hindi": "इस यज्ञ से देवताओं को संतुष्ट करो और वे देवता तुम्हें संतुष्ट करें; इस प्रकार परस्पर पोषण से तुम परम कल्याण को प्राप्त करोगे।",
+      "english": "By this, nourish the gods and let the gods nourish you; thus nourishing one another, you shall attain the highest good."
+    },
+    {
+      "number": 12,
+      "sanskrit": "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः। तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः॥",
+      "hindi": "यज्ञ से संतुष्ट देवता तुम्हें इच्छित भोग देंगे; जो उन्हें दिए बिना उनका उपभोग करता है, वह चोर है।",
+      "english": "The gods, nourished by sacrifice, will give you desired enjoyments; one who enjoys without offering in return is a thief."
+    },
+    {
+      "number": 13,
+      "sanskrit": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः। भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात्॥",
+      "hindi": "यज्ञ से बचे अन्न को खाने वाले सज्जन सब पापों से मुक्त हो जाते हैं; जो केवल अपने लिए पकाते हैं, वे पाप खाते हैं।",
+      "english": "The righteous who eat the remnants of sacrifice are freed from all sins; but those who cook food only for themselves eat sin."
+    },
+    {
+      "number": 14,
+      "sanskrit": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः। यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः॥",
+      "hindi": "अन्न से प्राणी उत्पन्न होते हैं, वर्षा से अन्न उत्पन्न होता है, यज्ञ से वर्षा होती है और यज्ञ कर्म से उत्पन्न होता है।",
+      "english": "From food beings are born; from rain food is produced; from sacrifice comes rain; sacrifice arises from action."
+    },
+    {
+      "number": 15,
+      "sanskrit": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्। तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्॥",
+      "hindi": "कर्म को ब्रह्म से उत्पन्न जानो और ब्रह्म को अक्षर से उत्पन्न; इसलिए सर्वव्यापक ब्रह्म यज्ञ में प्रतिष्ठित है।",
+      "english": "Know that action comes from Brahman, and Brahman comes from the Imperishable; therefore the all-pervading Brahman is eternally situated in sacrifice."
+    },
+    {
+      "number": 16,
+      "sanskrit": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः। अघायुरिन्द्रियारामो मोघं पार्थ स जीवति॥",
+      "hindi": "हे पार्थ! जो इस प्रकार प्रवर्तित चक्र का पालन नहीं करता, इंद्रियभोग में रत और पापमय जीवन जीता है—वह व्यर्थ ही जीता है।",
+      "english": "He who does not follow this cycle set in motion lives a sinful life, indulging in the senses; such a person lives in vain, O Partha."
+    },
+    {
+      "number": 17,
+      "sanskrit": "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः। आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते॥",
+      "hindi": "जो मनुष्य आत्मा में ही रमण करता है, आत्मा में तृप्त और संतुष्ट है—उसके लिए कोई कर्तव्य नहीं रहता।",
+      "english": "But for one who rejoices in the Self, is satisfied with the Self, and content in the Self alone, there is no duty."
+    },
+    {
+      "number": 18,
+      "sanskrit": "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन। न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः॥",
+      "hindi": "उसके लिए न तो कर्म करने से कोई प्रयोजन है और न ही न करने से; वह किसी पर आश्रित नहीं रहता।",
+      "english": "For him there is no purpose served by action or inaction, nor does he depend on any being."
+    },
+    {
+      "number": 19,
+      "sanskrit": "तस्मादसक्तः सततं कार्यं कर्म समाचर। असक्तो ह्याचरन्कर्म परमाप्नोति पुरुषः॥",
+      "hindi": "इसलिए आसक्ति रहित होकर निरंतर कर्तव्य कर्म करो; क्योंकि आसक्ति रहित कर्म करने से मनुष्य परम को प्राप्त करता है।",
+      "english": "Therefore, always perform your duty without attachment; performing action without attachment, one attains the Supreme."
+    },
+    {
+      "number": 20,
+      "sanskrit": "कर्मणैव हि संसिद्धिमास्थिता जनकादयः। लोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि॥",
+      "hindi": "जनक आदि ने कर्म द्वारा ही सिद्धि प्राप्त की; लोकसंग्रह को देखते हुए तुम्हें भी कर्म करना चाहिए।",
+      "english": "Indeed, Janaka and others attained perfection through action alone; you should also act for the sake of maintaining the order of the world."
+    },
+{
+  "number": 21,
+  "sanskrit": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः। स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते॥",
+  "hindi": "श्रेष्ठ पुरुष जो-जो आचरण करता है, अन्य लोग भी वैसा ही करते हैं; वह जो प्रमाण स्थापित करता है, संसार उसी का अनुसरण करता है।",
+  "english": "Whatever a great person does, others follow; whatever standard he sets, the world pursues."
+},
+{
+  "number": 22,
+  "sanskrit": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन। नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि॥",
+  "hindi": "हे पार्थ! तीनों लोकों में मेरे लिए कोई कर्तव्य नहीं है, न ही कुछ अप्राप्त है जिसे प्राप्त करना हो; फिर भी मैं कर्म में प्रवृत्त रहता हूँ।",
+  "english": "O Partha, there is nothing for Me to do in the three worlds, nor is there anything unattained to be attained; yet I engage in action."
+},
+{
+  "number": 23,
+  "sanskrit": "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः। मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः॥",
+  "hindi": "यदि मैं कभी कर्म न करूँ, तो हे पार्थ! सभी मनुष्य हर प्रकार से मेरे मार्ग का अनुसरण करेंगे।",
+  "english": "For if I did not engage in action tirelessly, O Partha, people would follow My path in every way."
+},
+{
+  "number": 24,
+  "sanskrit": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम्। सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः॥",
+  "hindi": "यदि मैं कर्म न करूँ तो ये लोक नष्ट हो जाएँ; मैं वर्णसंकर का कारण बनूँ और इन प्रजाओं का विनाश कर दूँ।",
+  "english": "If I did not perform action, these worlds would perish; I would cause social disorder and destroy these beings."
+},
+{
+  "number": 25,
+  "sanskrit": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत। कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम्॥",
+  "hindi": "हे भारत! जैसे अज्ञानी लोग आसक्ति से कर्म करते हैं, वैसे ही ज्ञानी को बिना आसक्ति के लोकसंग्रह के लिए कर्म करना चाहिए।",
+  "english": "As the ignorant act with attachment to work, O Bharata, so should the wise act without attachment, desiring the welfare of the world."
+},
+{
+  "number": 26,
+  "sanskrit": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम्। जोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन्॥",
+  "hindi": "ज्ञानी को कर्म में आसक्त अज्ञानियों की बुद्धि में भेद उत्पन्न नहीं करना चाहिए; स्वयं युक्त होकर सभी कर्म करते हुए उन्हें प्रेरित करना चाहिए।",
+  "english": "Let not the wise create confusion in the minds of the ignorant attached to action; performing actions with discipline, he should encourage them."
+},
+{
+  "number": 27,
+  "sanskrit": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः। अहङ्कारविमूढात्मा कर्ताहमिति मन्यते॥",
+  "hindi": "सभी कर्म प्रकृति के गुणों द्वारा किए जाते हैं; अहंकार से मोहित आत्मा ‘मैं कर्ता हूँ’ ऐसा मानती है।",
+  "english": "All actions are performed by the modes of nature; one deluded by ego thinks, 'I am the doer.'"
+},
+{
+  "number": 28,
+  "sanskrit": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः। गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते॥",
+  "hindi": "हे महाबाहु! तत्व को जानने वाला गुणों और कर्मों के भेद को समझकर यह जानता है कि गुण ही गुणों में प्रवृत्त होते हैं—इसलिए वह आसक्त नहीं होता।",
+  "english": "But one who knows the truth about the divisions of modes and actions understands that modes act upon modes and is not attached."
+},
+{
+  "number": 29,
+  "sanskrit": "प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु। तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत्॥",
+  "hindi": "प्रकृति के गुणों से मोहित लोग गुणों और कर्मों में आसक्त हो जाते हैं; पूर्ण ज्ञानी को ऐसे अल्पज्ञ लोगों को विचलित नहीं करना चाहिए।",
+  "english": "Those deluded by the modes of nature become attached to actions of the modes; the wise should not unsettle the dull-minded who lack full knowledge."
+},
+{
+  "number": 30,
+  "sanskrit": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा। निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः॥",
+  "hindi": "सभी कर्म मुझे समर्पित कर, अध्यात्मचेतना से युक्त, आशा और ममता से रहित होकर, ज्वर रहित होकर युद्ध करो।",
+  "english": "Dedicate all actions to Me, with your mind on the Self, free from hope and ego, and fight without inner turmoil."
+},
+{
+  "number": 31,
+  "sanskrit": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः। श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः॥",
+  "hindi": "जो मनुष्य श्रद्धा से और दोषदृष्टि रहित होकर इस मेरे मत का निरंतर पालन करते हैं, वे भी कर्मबंधन से मुक्त हो जाते हैं।",
+  "english": "Those who consistently practice this teaching of Mine with faith and without resentment are freed from the bondage of actions."
+},
+{
+  "number": 32,
+  "sanskrit": "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम्। सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः॥",
+  "hindi": "जो दोषदृष्टि से इस मेरे मत का पालन नहीं करते, उन्हें समस्त ज्ञान में मोहित और नष्टबुद्धि समझो।",
+  "english": "But those who, finding fault, do not follow this teaching of Mine—know them to be deluded in all knowledge and doomed."
+},
+{
+  "number": 33,
+  "sanskrit": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि। प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति॥",
+  "hindi": "ज्ञानी भी अपनी प्रकृति के अनुसार ही कर्म करता है; सभी प्राणी अपनी प्रकृति का अनुसरण करते हैं—निग्रह क्या करेगा?",
+  "english": "Even the wise act according to their own nature; all beings follow their nature—what will restraint accomplish?"
+},
+{
+  "number": 34,
+  "sanskrit": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ। तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ॥",
+  "hindi": "प्रत्येक इंद्रिय के विषय में राग और द्वेष स्थित हैं; मनुष्य को उनके वश में नहीं होना चाहिए, क्योंकि वे उसके शत्रु हैं।",
+  "english": "Attachment and aversion reside in the senses toward their objects; one should not fall under their sway, for they are obstacles."
+},
+{
+  "number": 35,
+  "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्। स्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥",
+  "hindi": "अच्छी तरह किए गए परधर्म की अपेक्षा दोषयुक्त स्वधर्म श्रेष्ठ है; स्वधर्म में मृत्यु भी श्रेयस्कर है, परधर्म भयावह है।",
+  "english": "Better is one’s own duty, even if imperfect, than another’s duty well performed. Death in one’s own duty is better; another’s duty is dangerous."
+},
+{
+  "number": 36,
+  "sanskrit": "अर्जुन उवाच। अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः। अनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः॥",
+  "hindi": "अर्जुन ने कहा—हे वार्ष्णेय! मनुष्य अनिच्छा से भी पाप क्यों करता है, मानो किसी बल से प्रेरित हो?",
+  "english": "Arjuna said: O Varshneya, by what is a person impelled to commit sin, even unwillingly, as if forced?"
+},
+{
+  "number": 37,
+  "sanskrit": "श्रीभगवानुवाच। काम एष क्रोध एष रजोगुणसमुद्भवः। महाशनो महापाप्मा विद्ध्येनमिह वैरिणम्॥",
+  "hindi": "श्रीभगवान बोले—यह काम और क्रोध है, जो रजोगुण से उत्पन्न, अत्यंत भोगी और महापापी है; इसे यहाँ शत्रु जानो।",
+  "english": "The Blessed Lord said: It is desire, it is anger, born of the mode of passion—insatiable and greatly sinful; know this to be the enemy here."
+},
+{
+  "number": 38,
+  "sanskrit": "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च। यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्॥",
+  "hindi": "जैसे अग्नि धुएँ से, दर्पण मल से और गर्भ झिल्ली से ढका रहता है, वैसे ही यह ज्ञान उससे ढका रहता है।",
+  "english": "As fire is covered by smoke, a mirror by dust, and an embryo by the womb, so knowledge is covered by this."
+},
+{
+  "number": 39,
+  "sanskrit": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा। कामरूपेण कौन्तेय दुष्पूरेणानलेन च॥",
+  "hindi": "हे कुन्तीपुत्र! यह ज्ञान सदा के शत्रु काम रूपी अग्नि से ढका रहता है, जो कभी तृप्त नहीं होती।",
+  "english": "O son of Kunti, knowledge is covered by this constant enemy in the form of desire, which is never satisfied."
+},
+{
+  "number": 40,
+  "sanskrit": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते। एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम्॥",
+  "hindi": "इंद्रियाँ, मन और बुद्धि इसके स्थान कहे जाते हैं; इनके द्वारा यह ज्ञान को ढककर देहधारी को मोहित करता है।",
+  "english": "The senses, mind, and intellect are said to be its seat; through them it deludes the embodied by covering knowledge."
+},
+{
+  "number": 41,
+  "sanskrit": "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ। पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम्॥",
+  "hindi": "इसलिए हे भरतश्रेष्ठ! पहले इंद्रियों को नियंत्रित कर इस पापी काम को नष्ट करो, जो ज्ञान और विज्ञान का नाशक है।",
+  "english": "Therefore, O best of the Bharatas, first restrain the senses and destroy this sinful desire, the destroyer of knowledge and realization."
+},
+{
+  "number": 42,
+  "sanskrit": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः। मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः॥",
+  "hindi": "इंद्रियाँ श्रेष्ठ कही गई हैं, इंद्रियों से श्रेष्ठ मन है, मन से श्रेष्ठ बुद्धि है और बुद्धि से भी परे वह आत्मा है।",
+  "english": "The senses are superior, the mind is superior to the senses, the intellect is superior to the mind, and that which is beyond the intellect is the Self."
+},
+{
+  "number": 43,
+  "sanskrit": "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना। जहि शत्रुं महाबाहो कामरूपं दुरासदम्॥",
+  "hindi": "हे महाबाहु! बुद्धि से परे आत्मा को जानकर, आत्मा द्वारा आत्मा को स्थिर कर, इस कठिन-जीत शत्रु काम का नाश करो।",
+  "english": "Thus knowing the Self to be superior to the intellect, steady the self by the Self and slay this formidable enemy in the form of desire."
+}
+  ]
+}

@@ -1,0 +1,1793 @@
+[
+    {
+  "id": "GR_001",
+  "category": {
+    "english": "Confusion in Life Direction",
+    "hindi": "जीवन की दिशा को लेकर भ्रम"
+  },
+  "problem_statement": {
+    "english": "I feel lost and unsure about what I should do with my life.",
+    "hindi": "मुझे समझ नहीं आ रहा कि जीवन में मुझे क्या करना चाहिए।"
+  },
+  "context": {
+    "english": "Such confusion arises when expectations, fear of failure, and comparison overpower clarity.",
+    "hindi": "यह भ्रम तब उत्पन्न होता है जब अपेक्षाएँ, असफलता का भय और तुलना स्पष्टता पर हावी हो जाते हैं।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches that clarity comes through action without attachment, not overthinking.",
+      "hindi": "गीता सिखाती है कि स्पष्टता अधिक सोच से नहीं, आसक्ति रहित कर्म से आती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 2,
+        "shloka": 47,
+        "english": "You have the right to action, not to the fruits of action.",
+        "hindi": "तुम्हारा अधिकार केवल कर्म पर है, फल पर नहीं।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Accept that confusion is not weakness but a signal for inner alignment.",
+      "Shift focus from results to the next right action.",
+      "Do what feels responsible, not what guarantees success."
+    ],
+    "hindi": [
+      "यह स्वीकार करें कि भ्रम कमजोरी नहीं, बल्कि आत्म-संतुलन का संकेत है।",
+      "फल से ध्यान हटाकर अगले सही कर्म पर ध्यान दें।",
+      "जो उत्तरदायित्वपूर्ण लगे वही करें, सफलता की गारंटी नहीं खोजें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Am I afraid of choosing wrongly?",
+      "What is the one action I can take today without worrying about results?"
+    ],
+    "hindi": [
+      "क्या मैं गलत निर्णय लेने से डर रहा हूँ?",
+      "आज मैं कौन-सा कर्म कर सकता हूँ बिना फल की चिंता किए?"
+    ]
+  },
+  "closing_note": {
+    "english": "Life becomes clear when action becomes sincere.",
+    "hindi": "जब कर्म सच्चा होता है, तब जीवन स्पष्ट हो जाता है।"
+  }
+},
+
+{
+  "id": "GR_002",
+  "category": {
+    "english": "Overthinking and Mental Restlessness",
+    "hindi": "अत्यधिक सोच और मानसिक अशांति"
+  },
+  "problem_statement": {
+    "english": "My mind never stops thinking and I feel mentally exhausted.",
+    "hindi": "मेरा मन लगातार सोचता रहता है और मैं मानसिक रूप से थका हुआ महसूस करता हूँ।"
+  },
+  "context": {
+    "english": "An uncontrolled mind jumps between past regrets and future fears.",
+    "hindi": "असंयमित मन अतीत के पछतावे और भविष्य के भय के बीच भटकता रहता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches mastery over the mind through awareness and practice.",
+      "hindi": "गीता अभ्यास और सजगता द्वारा मन पर नियंत्रण सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 6,
+        "shloka": 5,
+        "english": "Let a man lift himself by his own mind.",
+        "hindi": "मनुष्य को अपने मन के द्वारा ही अपना उद्धार करना चाहिए।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Observe your thoughts without judging them.",
+      "Bring attention back to the present moment.",
+      "Reduce mental noise by simplifying expectations."
+    ],
+    "hindi": [
+      "अपने विचारों को बिना मूल्यांकन किए देखें।",
+      "ध्यान को वर्तमान क्षण में वापस लाएँ।",
+      "अपेक्षाओं को सरल बनाकर मानसिक शोर कम करें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What thought is repeating again and again?",
+      "Can I let this thought pass without reacting?"
+    ],
+    "hindi": [
+      "कौन-सा विचार बार-बार लौट रहा है?",
+      "क्या मैं इस विचार को बिना प्रतिक्रिया दिए जाने दे सकता हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Peace begins when observation replaces control.",
+    "hindi": "जब नियंत्रण की जगह सजगता आती है, तब शांति प्रारंभ होती है।"
+  }
+},
+
+{
+  "id": "GR_003",
+  "category": {
+    "english": "Fear of Taking Action",
+    "hindi": "कर्म करने का भय"
+  },
+  "problem_statement": {
+    "english": "I know what to do, but fear stops me from acting.",
+    "hindi": "मुझे पता है कि क्या करना है, लेकिन डर मुझे कर्म करने से रोकता है।"
+  },
+  "context": {
+    "english": "Fear arises when ego connects action with identity and outcome.",
+    "hindi": "डर तब उत्पन्न होता है जब अहंकार कर्म को पहचान और परिणाम से जोड़ देता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches courage through detached action.",
+      "hindi": "गीता आसक्ति रहित कर्म के माध्यम से साहस सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 18,
+        "shloka": 60,
+        "english": "You will be compelled to act by your own nature.",
+        "hindi": "अपने स्वभाव से उत्पन्न कर्म तुम्हें करना ही पड़ेगा।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Understand that inaction is also a form of action.",
+      "Fear reduces when you stop personalizing outcomes.",
+      "Act because it is your responsibility, not your guarantee."
+    ],
+    "hindi": [
+      "यह समझें कि अकर्म भी एक प्रकार का कर्म है।",
+      "जब परिणाम को निजी नहीं बनाते, तो डर कम होता है।",
+      "गारंटी के लिए नहीं, उत्तरदायित्व के लिए कर्म करें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What is the worst that can realistically happen?",
+      "Am I avoiding action to protect my ego?"
+    ],
+    "hindi": [
+      "वास्तव में सबसे बुरा क्या हो सकता है?",
+      "क्या मैं अहंकार बचाने के लिए कर्म से बच रहा हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Courage is born when duty becomes greater than fear.",
+    "hindi": "जब कर्तव्य डर से बड़ा हो जाता है, तब साहस जन्म लेता है।"
+  }
+},
+
+{
+  "id": "GR_005",
+  "category": {
+    "english": "Lack of Self-Discipline",
+    "hindi": "आत्म-अनुशासन की कमी"
+  },
+  "problem_statement": {
+    "english": "I know what is right, but I fail to stay disciplined.",
+    "hindi": "मुझे पता है कि क्या सही है, फिर भी अनुशासन बनाए नहीं रख पाता।"
+  },
+  "context": {
+    "english": "Discipline breaks when desire dominates awareness.",
+    "hindi": "जब कामना सजगता पर हावी हो जाती है, तब अनुशासन टूटता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches balance, not suppression.",
+      "hindi": "गीता दमन नहीं, संतुलन सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 6,
+        "shloka": 16,
+        "english": "Yoga is not for one who eats too much or too little.",
+        "hindi": "योग न अधिक खाने वाले के लिए है, न अत्यल्प खाने वाले के लिए।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Replace force with consistency.",
+      "Create small, repeatable actions.",
+      "Align discipline with compassion."
+    ],
+    "hindi": [
+      "बल की जगह निरंतरता अपनाएँ।",
+      "छोटे, दोहराने योग्य कर्म बनाएँ।",
+      "अनुशासन को करुणा से जोड़ें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Am I demanding perfection from myself?",
+      "What small habit can I sustain daily?"
+    ],
+    "hindi": [
+      "क्या मैं स्वयं से पूर्णता की अपेक्षा कर रहा हूँ?",
+      "मैं कौन-सी छोटी आदत रोज़ निभा सकता हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "True discipline is gentle but unwavering.",
+    "hindi": "सच्चा अनुशासन कोमल लेकिन अडिग होता है।"
+  }
+},
+
+{
+  "id": "GR_006",
+  "category": {
+    "english": "Anxiety and Inner Fear",
+    "hindi": "चिंता और आंतरिक भय"
+  },
+  "problem_statement": {
+    "english": "I constantly feel anxious even when nothing seems wrong.",
+    "hindi": "बिना किसी स्पष्ट कारण के भी मुझे लगातार चिंता महसूस होती है।"
+  },
+  "context": {
+    "english": "Anxiety arises when the mind lives in imagined futures rather than present reality.",
+    "hindi": "चिंता तब उत्पन्न होती है जब मन वर्तमान के बजाय कल्पित भविष्य में जीने लगता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches inner stability through awareness and trust.",
+      "hindi": "गीता सजगता और विश्वास के माध्यम से आंतरिक स्थिरता सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 6,
+        "shloka": 26,
+        "english": "Wherever the restless mind wanders, bring it back under the control of the Self.",
+        "hindi": "जहाँ-जहाँ चंचल मन भटके, वहाँ-वहाँ से उसे आत्मा के अधीन लाओ।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Notice when your mind leaves the present moment.",
+      "Gently return attention to what is real and immediate.",
+      "Replace imagined threats with conscious breathing."
+    ],
+    "hindi": [
+      "ध्यान दें कि आपका मन कब वर्तमान से भटकता है।",
+      "सौम्यता से ध्यान को वास्तविक और तत्काल क्षण में लौटाएँ।",
+      "कल्पित खतरों की जगह सजग श्वास लें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Is this fear happening now or only in my thoughts?",
+      "What is actually under my control at this moment?"
+    ],
+    "hindi": [
+      "क्या यह भय वास्तव में अभी है या केवल मेरे विचारों में?",
+      "इस क्षण मेरे नियंत्रण में वास्तव में क्या है?"
+    ]
+  },
+  "closing_note": {
+    "english": "Fear weakens when presence strengthens.",
+    "hindi": "जब उपस्थिति सशक्त होती है, भय कमजोर पड़ता है।"
+  }
+},
+
+{
+  "id": "GR_007",
+  "category": {
+    "english": "Sadness, Depression, and Hopelessness",
+    "hindi": "दुःख, अवसाद और निराशा"
+  },
+  "problem_statement": {
+    "english": "I feel empty and hopeless, as if nothing will improve.",
+    "hindi": "मुझे खालीपन और निराशा महसूस होती है, जैसे कुछ भी बेहतर नहीं होगा।"
+  },
+  "context": {
+    "english": "Hopelessness arises when pain is mistaken as permanent.",
+    "hindi": "निराशा तब उत्पन्न होती है जब दुःख को स्थायी मान लिया जाता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita reminds us that all states are temporary.",
+      "hindi": "गीता स्मरण कराती है कि सभी अवस्थाएँ अस्थायी हैं।"
+    },
+    "shlokas": [
+      {
+        "chapter": 2,
+        "shloka": 14,
+        "english": "Pleasure and pain are temporary; endure them.",
+        "hindi": "सुख और दुःख अस्थायी हैं; उन्हें सहन करो।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Allow sadness without judging yourself.",
+      "Do not rush to escape pain; understand it.",
+      "Stay connected to small acts of meaning."
+    ],
+    "hindi": [
+      "दुःख को बिना आत्म-दोष के स्वीकार करें।",
+      "पीड़ा से भागने की जल्दबाज़ी न करें; उसे समझें।",
+      "अर्थपूर्ण छोटे कर्मों से जुड़े रहें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Am I assuming this pain will never end?",
+      "What small good still exists in my life?"
+    ],
+    "hindi": [
+      "क्या मैं मान रहा हूँ कि यह पीड़ा कभी समाप्त नहीं होगी?",
+      "मेरे जीवन में अभी भी कौन-सी छोटी अच्छाई मौजूद है?"
+    ]
+  },
+  "closing_note": {
+    "english": "Darkness feels permanent only when hope is forgotten.",
+    "hindi": "अंधकार स्थायी तब लगता है जब आशा भूल जाती है।"
+  }
+},
+
+{
+  "id": "GR_008",
+  "category": {
+    "english": "Attachment to Results",
+    "hindi": "फल की आसक्ति"
+  },
+  "problem_statement": {
+    "english": "I suffer because I am too attached to outcomes.",
+    "hindi": "मैं परिणामों से अत्यधिक जुड़ाव के कारण पीड़ित रहता हूँ।"
+  },
+  "context": {
+    "english": "Attachment converts effort into tension.",
+    "hindi": "आसक्ति प्रयास को तनाव में बदल देती है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches freedom through detachment from results.",
+      "hindi": "गीता फल-त्याग के माध्यम से स्वतंत्रता सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 2,
+        "shloka": 48,
+        "english": "Remain balanced in success and failure.",
+        "hindi": "सिद्धि और असिद्धि में समभाव रखो।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Shift attention from success to sincerity.",
+      "Recognize effort as your true offering.",
+      "Let outcomes unfold naturally."
+    ],
+    "hindi": [
+      "सफलता से ध्यान हटाकर सच्चाई पर केंद्रित करें।",
+      "प्रयास को ही अपना अर्पण मानें।",
+      "परिणामों को स्वाभाविक रूप से प्रकट होने दें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Would I still act if results were uncertain?",
+      "Am I measuring my worth through outcomes?"
+    ],
+    "hindi": [
+      "यदि परिणाम अनिश्चित हों तो भी क्या मैं कर्म करूँगा?",
+      "क्या मैं अपना मूल्य परिणामों से माप रहा हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Detachment transforms effort into peace.",
+    "hindi": "वैराग्य प्रयास को शांति में बदल देता है।"
+  }
+},
+
+{
+  "id": "GR_009",
+  "category": {
+    "english": "Ego and Arrogance",
+    "hindi": "अहंकार और घमंड"
+  },
+  "problem_statement": {
+    "english": "I feel disturbed when my pride is challenged.",
+    "hindi": "जब मेरे अहंकार को चुनौती मिलती है तो मैं विचलित हो जाता हूँ।"
+  },
+  "context": {
+    "english": "Ego seeks control and validation to feel secure.",
+    "hindi": "अहंकार सुरक्षा के लिए नियंत्रण और मान्यता चाहता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches humility through self-knowledge.",
+      "hindi": "गीता आत्मज्ञान के माध्यम से विनम्रता सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 13,
+        "shloka": 8,
+        "english": "Humility and absence of pride are true knowledge.",
+        "hindi": "विनम्रता और अहंकार का अभाव ही सच्चा ज्ञान है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Notice when identity feels threatened.",
+      "Separate self-worth from achievements.",
+      "Choose learning over defending."
+    ],
+    "hindi": [
+      "ध्यान दें कि कब आपकी पहचान खतरे में लगती है।",
+      "आत्म-मूल्य को उपलब्धियों से अलग करें।",
+      "बचाव के बजाय सीखना चुनें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Why do I need to prove myself here?",
+      "What happens if I let go of being right?"
+    ],
+    "hindi": [
+      "मुझे यहाँ खुद को सिद्ध करने की आवश्यकता क्यों लग रही है?",
+      "यदि मैं सही होने की ज़िद छोड़ दूँ तो क्या होगा?"
+    ]
+  },
+  "closing_note": {
+    "english": "Ego dissolves when learning becomes more important than image.",
+    "hindi": "जब छवि से अधिक सीख महत्वपूर्ण हो जाती है, अहंकार घुलने लगता है।"
+  }
+},
+
+{
+  "id": "GR_011",
+  "category": {
+    "english": "Confusion Between Right and Wrong",
+    "hindi": "सही और गलत के बीच भ्रम"
+  },
+  "problem_statement": {
+    "english": "I feel confused about what is right and what is wrong in my situation.",
+    "hindi": "मेरी स्थिति में क्या सही है और क्या गलत—यह समझना कठिन हो गया है।"
+  },
+  "context": {
+    "english": "Moral confusion arises when emotions overpower clarity and wisdom.",
+    "hindi": "जब भावनाएँ विवेक पर हावी हो जाती हैं, तब नैतिक भ्रम उत्पन्न होता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches discernment through calm intellect, not impulse.",
+      "hindi": "गीता आवेग से नहीं, शांत बुद्धि से विवेक सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 18,
+        "shloka": 30,
+        "english": "That intellect which knows right and wrong is sattvic.",
+        "hindi": "जो बुद्धि सही और गलत को जानती है, वही सात्त्विक है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Pause before reacting emotionally.",
+      "Ask what action reduces harm and increases responsibility.",
+      "Choose long-term clarity over short-term comfort."
+    ],
+    "hindi": [
+      "भावनात्मक प्रतिक्रिया से पहले रुकें।",
+      "वह कर्म पूछें जो हानि कम करे और उत्तरदायित्व बढ़ाए।",
+      "क्षणिक सुविधा के बजाय दीर्घकालिक स्पष्टता चुनें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Is my decision driven by fear or wisdom?",
+      "What choice would I respect later?"
+    ],
+    "hindi": [
+      "क्या मेरा निर्णय भय से प्रेरित है या विवेक से?",
+      "भविष्य में मैं किस निर्णय का सम्मान करूँगा?"
+    ]
+  },
+  "closing_note": {
+    "english": "Right action becomes clear when the mind becomes calm.",
+    "hindi": "जब मन शांत होता है, तब सही कर्म स्पष्ट होता है।"
+  }
+},
+
+{
+  "id": "GR_012",
+  "category": {
+    "english": "Procrastination and Avoidance",
+    "hindi": "टालमटोल और पलायन"
+  },
+  "problem_statement": {
+    "english": "I keep delaying important actions even when I know they matter.",
+    "hindi": "महत्वपूर्ण होने पर भी मैं बार-बार कर्म को टाल देता हूँ।"
+  },
+  "context": {
+    "english": "Avoidance often hides fear of discomfort or failure.",
+    "hindi": "टालमटोल के पीछे अक्सर असुविधा या असफलता का भय छिपा होता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita reminds that inaction also has consequences.",
+      "hindi": "गीता स्मरण कराती है कि अकर्म के भी परिणाम होते हैं।"
+    },
+    "shlokas": [
+      {
+        "chapter": 3,
+        "shloka": 8,
+        "english": "Perform your prescribed duty, for action is better than inaction.",
+        "hindi": "नियत कर्म करो, क्योंकि अकर्म से कर्म श्रेष्ठ है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Identify the discomfort you are avoiding.",
+      "Break action into the smallest possible step.",
+      "Begin without waiting for motivation."
+    ],
+    "hindi": [
+      "जिस असुविधा से आप बच रहे हैं, उसे पहचानें।",
+      "कर्म को सबसे छोटे चरण में बाँटें।",
+      "प्रेरणा की प्रतीक्षा किए बिना आरंभ करें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What am I really avoiding?",
+      "What is the smallest action I can take now?"
+    ],
+    "hindi": [
+      "मैं वास्तव में किससे बच रहा हूँ?",
+      "अभी मैं कौन-सा सबसे छोटा कर्म कर सकता हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Momentum begins with imperfect action.",
+    "hindi": "गति अपूर्ण कर्म से ही शुरू होती है।"
+  }
+},
+
+{
+  "id": "GR_013",
+  "category": {
+    "english": "Need for Validation and Approval",
+    "hindi": "मान्यता और स्वीकृति की चाह"
+  },
+  "problem_statement": {
+    "english": "I feel unsettled when others do not approve of me.",
+    "hindi": "जब लोग मेरी स्वीकृति नहीं देते, तो मैं अस्थिर महसूस करता हूँ।"
+  },
+  "context": {
+    "english": "Dependence on approval weakens inner freedom.",
+    "hindi": "मान्यता पर निर्भरता आंतरिक स्वतंत्रता को कमजोर करती है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches inner steadiness beyond praise and blame.",
+      "hindi": "गीता प्रशंसा और निंदा से परे स्थिरता सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 14,
+        "shloka": 24,
+        "english": "He remains equal in praise and blame.",
+        "hindi": "वह निंदा और स्तुति में समान रहता है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Notice how approval affects your decisions.",
+      "Return attention to your values.",
+      "Act in alignment, not performance."
+    ],
+    "hindi": [
+      "देखें कि मान्यता आपके निर्णयों को कैसे प्रभावित करती है।",
+      "ध्यान को अपने मूल्यों पर लौटाएँ।",
+      "प्रदर्शन नहीं, समरसता में कर्म करें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Would I do this if no one noticed?",
+      "What value matters more than approval?"
+    ],
+    "hindi": [
+      "यदि कोई न देखे तो क्या मैं यह करूँगा?",
+      "कौन-सा मूल्य मान्यता से अधिक महत्वपूर्ण है?"
+    ]
+  },
+  "closing_note": {
+    "english": "Freedom grows when self-respect replaces approval-seeking.",
+    "hindi": "जब मान्यता की जगह आत्म-सम्मान आता है, स्वतंत्रता बढ़ती है।"
+  }
+},
+
+{
+  "id": "GR_014",
+  "category": {
+    "english": "False Identity and Role Attachment",
+    "hindi": "झूठी पहचान और भूमिकाओं से आसक्ति"
+  },
+  "problem_statement": {
+    "english": "I define myself entirely by my role, job, or status.",
+    "hindi": "मैं स्वयं को पूरी तरह अपनी भूमिका, काम या पद से परिभाषित करता हूँ।"
+  },
+  "context": {
+    "english": "Suffering arises when identity is tied to temporary roles.",
+    "hindi": "जब पहचान अस्थायी भूमिकाओं से जुड़ जाती है, तब पीड़ा उत्पन्न होती है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches identity beyond roles and labels.",
+      "hindi": "गीता भूमिकाओं और नामों से परे पहचान सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 2,
+        "shloka": 13,
+        "english": "The self passes through different bodies but remains the same.",
+        "hindi": "आत्मा देह बदलती है, पर स्वयं वही रहती है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Notice the roles you cling to.",
+      "Ask who you are beyond them.",
+      "Rest in awareness, not labels."
+    ],
+    "hindi": [
+      "जिन भूमिकाओं से आप चिपके हैं, उन्हें देखें।",
+      "उनसे परे आप कौन हैं—यह पूछें।",
+      "नामों नहीं, सजगता में विश्राम करें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Who am I without my titles?",
+      "What remains when roles change?"
+    ],
+    "hindi": [
+      "मेरे पदों के बिना मैं कौन हूँ?",
+      "जब भूमिकाएँ बदलती हैं, तब क्या शेष रहता है?"
+    ]
+  },
+  "closing_note": {
+    "english": "You are the witness, not the role.",
+    "hindi": "आप भूमिका नहीं, साक्षी हैं।"
+  }
+},
+
+{
+  "id": "GR_015",
+  "category": {
+    "english": "Conflict in Relationships",
+    "hindi": "संबंधों में संघर्ष"
+  },
+  "problem_statement": {
+    "english": "I feel stuck in repeated conflicts with people close to me.",
+    "hindi": "करीबी लोगों के साथ बार-बार होने वाले संघर्षों में मैं फँसा हुआ महसूस करता हूँ।"
+  },
+  "context": {
+    "english": "Conflict intensifies when expectations replace understanding.",
+    "hindi": "जब समझ की जगह अपेक्षाएँ ले लेती हैं, संघर्ष बढ़ता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches equanimity and compassion in relationships.",
+      "hindi": "गीता संबंधों में समभाव और करुणा सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 12,
+        "shloka": 15,
+        "english": "He who neither agitates nor is agitated is dear to Me.",
+        "hindi": "जो न किसी को उद्विग्न करता है, न स्वयं उद्विग्न होता है—वह मुझे प्रिय है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Pause before reacting defensively.",
+      "Seek understanding before being understood.",
+      "Choose peace over winning."
+    ],
+    "hindi": [
+      "रक्षात्मक प्रतिक्रिया से पहले रुकें।",
+      "समझे जाने से पहले समझने का प्रयास करें।",
+      "जीत से अधिक शांति चुनें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What expectation is causing this conflict?",
+      "Can I respond with calm instead of reaction?"
+    ],
+    "hindi": [
+      "कौन-सी अपेक्षा इस संघर्ष को जन्म दे रही है?",
+      "क्या मैं प्रतिक्रिया की जगह शांति से उत्तर दे सकता हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Relationships heal when ego steps back.",
+    "hindi": "जब अहंकार पीछे हटता है, संबंध स्वस्थ होते हैं।"
+  }
+},
+
+{
+  "id": "GR_016",
+  "category": {
+    "english": "Attachment in Love and Family",
+    "hindi": "प्रेम और परिवार में आसक्ति"
+  },
+  "problem_statement": {
+    "english": "I feel emotionally bound to my loved ones and suffer when things don’t go as expected.",
+    "hindi": "मैं अपने प्रियजनों से भावनात्मक रूप से बँधा हुआ महसूस करता हूँ और जब चीज़ें अपेक्षा के अनुसार नहीं होतीं तो पीड़ा होती है।"
+  },
+  "context": {
+    "english": "Attachment turns care into fear when control replaces trust.",
+    "hindi": "जब विश्वास की जगह नियंत्रण आ जाता है, तब देखभाल डर में बदल जाती है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches love with freedom, not possession.",
+      "hindi": "गीता स्वामित्व नहीं, स्वतंत्रता के साथ प्रेम सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 12,
+        "shloka": 16,
+        "english": "He who is free from dependence is dear to Me.",
+        "hindi": "जो किसी पर निर्भर नहीं है, वह मुझे प्रिय है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Notice where care turns into control.",
+      "Allow loved ones to grow in their own way.",
+      "Replace fear with trust."
+    ],
+    "hindi": [
+      "देखें कि देखभाल कब नियंत्रण बन जाती है।",
+      "प्रियजनों को अपने मार्ग से बढ़ने दें।",
+      "डर की जगह विश्वास लाएँ।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Am I loving or trying to control?",
+      "Can I support without expecting outcomes?"
+    ],
+    "hindi": [
+      "क्या मैं प्रेम कर रहा हूँ या नियंत्रण चाहता हूँ?",
+      "क्या मैं परिणाम की अपेक्षा के बिना साथ दे सकता हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Love deepens when freedom is respected.",
+    "hindi": "जब स्वतंत्रता का सम्मान होता है, प्रेम गहराता है।"
+  }
+},
+
+{
+  "id": "GR_017",
+  "category": {
+    "english": "Dealing with Betrayal or Hurt",
+    "hindi": "विश्वासघात या चोट से निपटना"
+  },
+  "problem_statement": {
+    "english": "I feel deeply hurt by someone I trusted.",
+    "hindi": "जिस पर मैंने भरोसा किया, उसी से मुझे गहरी चोट लगी है।"
+  },
+  "context": {
+    "english": "Pain intensifies when identity merges with expectations.",
+    "hindi": "जब पहचान अपेक्षाओं से जुड़ जाती है, तब पीड़ा बढ़ जाती है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches forgiveness without weakness.",
+      "hindi": "गीता कमजोरी नहीं, विवेक के साथ क्षमा सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 16,
+        "shloka": 3,
+        "english": "Forgiveness and patience are divine qualities.",
+        "hindi": "क्षमा और धैर्य दैवी गुण हैं।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Acknowledge pain without suppressing it.",
+      "Separate the act from your self-worth.",
+      "Release resentment to reclaim peace."
+    ],
+    "hindi": [
+      "पीड़ा को दबाए बिना स्वीकार करें।",
+      "घटना को अपने आत्म-मूल्य से अलग करें।",
+      "मन की शांति के लिए द्वेष को छोड़ें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Am I holding pain to protect my ego?",
+      "What would healing look like for me?"
+    ],
+    "hindi": [
+      "क्या मैं अहंकार बचाने के लिए पीड़ा थामे हुए हूँ?",
+      "मेरे लिए उपचार कैसा दिखेगा?"
+    ]
+  },
+  "closing_note": {
+    "english": "Forgiveness frees the heart, not the offender.",
+    "hindi": "क्षमा हृदय को मुक्त करती है, अपराधी को नहीं।"
+  }
+},
+
+{
+  "id": "GR_018",
+  "category": {
+    "english": "Loneliness and Feeling Unseen",
+    "hindi": "अकेलापन और अनदेखा महसूस करना"
+  },
+  "problem_statement": {
+    "english": "I feel alone even when surrounded by people.",
+    "hindi": "लोगों के बीच रहते हुए भी मुझे अकेलापन महसूस होता है।"
+  },
+  "context": {
+    "english": "Loneliness deepens when connection with the Self weakens.",
+    "hindi": "जब आत्मा से संबंध कमजोर होता है, अकेलापन बढ़ता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches inner companionship through self-awareness.",
+      "hindi": "गीता आत्म-सजगता द्वारा आंतरिक संगति सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 6,
+        "shloka": 30,
+        "english": "He who sees Me everywhere is never separated from Me.",
+        "hindi": "जो मुझे सर्वत्र देखता है, वह मुझसे कभी अलग नहीं होता।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Notice the difference between solitude and loneliness.",
+      "Reconnect with yourself before seeking others.",
+      "Allow silence to become a companion."
+    ],
+    "hindi": [
+      "एकांत और अकेलेपन के अंतर को पहचानें।",
+      "दूसरों को खोजने से पहले स्वयं से जुड़ें।",
+      "मौन को अपना साथी बनने दें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Am I abandoning myself while seeking others?",
+      "What part of me needs attention now?"
+    ],
+    "hindi": [
+      "क्या मैं दूसरों को खोजते हुए स्वयं को छोड़ रहा हूँ?",
+      "इस समय मेरे किस हिस्से को ध्यान की आवश्यकता है?"
+    ]
+  },
+  "closing_note": {
+    "english": "True companionship begins within.",
+    "hindi": "सच्ची संगति भीतर से शुरू होती है।"
+  }
+},
+
+{
+  "id": "GR_019",
+  "category": {
+    "english": "Uncontrolled Desire (Kāma)",
+    "hindi": "अनियंत्रित कामना"
+  },
+  "problem_statement": {
+    "english": "My desires feel endless and hard to control.",
+    "hindi": "मेरी कामनाएँ अंतहीन लगती हैं और नियंत्रण में नहीं रहतीं।"
+  },
+  "context": {
+    "english": "Desire becomes destructive when awareness is absent.",
+    "hindi": "जब सजगता नहीं रहती, तब कामना विनाशकारी बन जाती है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita identifies desire as the enemy of wisdom.",
+      "hindi": "गीता कामना को ज्ञान का शत्रु बताती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 3,
+        "shloka": 37,
+        "english": "Desire is the great devourer and enemy.",
+        "hindi": "कामना महान भक्षक और शत्रु है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Observe desire without acting immediately.",
+      "Notice what emotion fuels it.",
+      "Respond consciously rather than impulsively."
+    ],
+    "hindi": [
+      "तुरंत प्रतिक्रिया दिए बिना कामना को देखें।",
+      "देखें कि कौन-सी भावना इसे बढ़ा रही है।",
+      "आवेग नहीं, सजगता से उत्तर दें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What am I trying to fill through this desire?",
+      "Can I pause before acting?"
+    ],
+    "hindi": [
+      "मैं इस कामना से क्या भरना चाहता हूँ?",
+      "क्या मैं कर्म से पहले रुक सकता हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Awareness weakens desire’s grip.",
+    "hindi": "सजगता कामना की पकड़ को ढीला करती है।"
+  }
+},
+
+{
+  "id": "GR_020",
+  "category": {
+    "english": "Anger and Resentment",
+    "hindi": "क्रोध और द्वेष"
+  },
+  "problem_statement": {
+    "english": "I struggle to control my anger and hold grudges.",
+    "hindi": "मुझे अपने क्रोध को नियंत्रित करने और द्वेष छोड़ने में कठिनाई होती है।"
+  },
+  "context": {
+    "english": "Anger arises when expectations clash with reality.",
+    "hindi": "जब अपेक्षाएँ वास्तविकता से टकराती हैं, तब क्रोध उत्पन्न होता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita shows anger as the destroyer of wisdom.",
+      "hindi": "गीता क्रोध को बुद्धि का नाशक बताती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 2,
+        "shloka": 63,
+        "english": "From anger comes delusion and loss of wisdom.",
+        "hindi": "क्रोध से मोह और बुद्धि का नाश होता है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Pause before expressing anger.",
+      "Trace anger back to unmet expectations.",
+      "Choose response over reaction."
+    ],
+    "hindi": [
+      "क्रोध व्यक्त करने से पहले रुकें।",
+      "क्रोध को अधूरी अपेक्षाओं तक ले जाएँ।",
+      "प्रतिक्रिया नहीं, उत्तर चुनें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What expectation is being violated?",
+      "Can I respond without harming myself?"
+    ],
+    "hindi": [
+      "कौन-सी अपेक्षा टूट रही है?",
+      "क्या मैं स्वयं को हानि पहुँचाए बिना उत्तर दे सकता हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Anger fades when understanding deepens.",
+    "hindi": "जब समझ गहरी होती है, क्रोध शांत हो जाता है।"
+  }
+},
+
+{
+  "id": "GR_021",
+  "category": {
+    "english": "Greed and Dissatisfaction",
+    "hindi": "लोभ और असंतोष"
+  },
+  "problem_statement": {
+    "english": "No matter how much I gain, I still feel dissatisfied.",
+    "hindi": "कितना भी प्राप्त कर लूँ, फिर भी असंतोष बना रहता है।"
+  },
+  "context": {
+    "english": "Greed grows when fulfillment is sought outside rather than within.",
+    "hindi": "जब संतोष भीतर के बजाय बाहर खोजा जाता है, तब लोभ बढ़ता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches contentment through inner fullness.",
+      "hindi": "गीता आंतरिक पूर्णता से संतोष सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 16,
+        "shloka": 21,
+        "english": "Greed leads to self-destruction.",
+        "hindi": "लोभ आत्म-विनाश का कारण है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Notice when desire turns into endless wanting.",
+      "Pause before seeking more.",
+      "Reconnect with what is already sufficient."
+    ],
+    "hindi": [
+      "देखें कि कब इच्छा अंतहीन चाह में बदल जाती है।",
+      "और अधिक पाने से पहले रुकें।",
+      "जो पहले से पर्याप्त है, उससे पुनः जुड़ें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What am I hoping this will finally give me?",
+      "What do I already have that I overlook?"
+    ],
+    "hindi": [
+      "मैं इससे अंततः क्या पाना चाहता हूँ?",
+      "मेरे पास पहले से क्या है जिसे मैं नज़रअंदाज़ कर रहा हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Contentment begins when craving ends.",
+    "hindi": "जब लालसा समाप्त होती है, तभी संतोष प्रारंभ होता है।"
+  }
+},
+
+{
+  "id": "GR_022",
+  "category": {
+    "english": "Jealousy and Envy",
+    "hindi": "ईर्ष्या और जलन"
+  },
+  "problem_statement": {
+    "english": "I feel disturbed when others succeed.",
+    "hindi": "दूसरों की सफलता मुझे विचलित कर देती है।"
+  },
+  "context": {
+    "english": "Envy arises when self-worth depends on comparison.",
+    "hindi": "जब आत्म-मूल्य तुलना पर निर्भर हो जाता है, तब ईर्ष्या उत्पन्न होती है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches freedom through self-acceptance.",
+      "hindi": "गीता आत्म-स्वीकृति द्वारा स्वतंत्रता सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 12,
+        "shloka": 19,
+        "english": "He who is free from envy is dear to Me.",
+        "hindi": "जो ईर्ष्या से रहित है, वह मुझे प्रिय है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Observe jealousy without acting on it.",
+      "Shift focus from others to your own path.",
+      "Turn envy into inspiration."
+    ],
+    "hindi": [
+      "ईर्ष्या को बिना प्रतिक्रिया के देखें।",
+      "दूसरों से ध्यान हटाकर अपने मार्ग पर लाएँ।",
+      "ईर्ष्या को प्रेरणा में बदलें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What does this envy reveal about my desires?",
+      "How can I grow instead of comparing?"
+    ],
+    "hindi": [
+      "यह ईर्ष्या मेरी किन इच्छाओं को दिखा रही है?",
+      "मैं तुलना के बजाय कैसे विकसित हो सकता हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Peace grows when comparison ends.",
+    "hindi": "जब तुलना समाप्त होती है, शांति बढ़ती है।"
+  }
+},
+
+{
+  "id": "GR_023",
+  "category": {
+    "english": "Lack of Self-Discipline (Deeper Level)",
+    "hindi": "आत्म-अनुशासन की गहरी कमी"
+  },
+  "problem_statement": {
+    "english": "Even after trying, I fail to maintain discipline consistently.",
+    "hindi": "प्रयास करने के बाद भी मैं अनुशासन को बनाए नहीं रख पाता।"
+  },
+  "context": {
+    "english": "Discipline collapses when the mind seeks comfort over growth.",
+    "hindi": "जब मन विकास के बजाय सुविधा चाहता है, तब अनुशासन टूट जाता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita emphasizes balance, not harsh control.",
+      "hindi": "गीता कठोर नियंत्रण नहीं, संतुलन पर ज़ोर देती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 6,
+        "shloka": 17,
+        "english": "Yoga is for one who is balanced in habits.",
+        "hindi": "योग संतुलित आहार-विहार वाले के लिए है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Identify where excess or lack exists.",
+      "Create rhythm, not rigidity.",
+      "Respect your limits without indulging them."
+    ],
+    "hindi": [
+      "देखें कि कहाँ अति या अभाव है।",
+      "कठोरता नहीं, लय बनाएँ।",
+      "सीमाओं का सम्मान करें, पर उनमें डूबें नहीं।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Where am I being extreme?",
+      "What balanced habit can I sustain?"
+    ],
+    "hindi": [
+      "मैं कहाँ अति कर रहा हूँ?",
+      "कौन-सी संतुलित आदत मैं निभा सकता हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Sustainable discipline is gentle and steady.",
+    "hindi": "टिकाऊ अनुशासन कोमल और स्थिर होता है।"
+  }
+},
+
+{
+  "id": "GR_025",
+  "category": {
+    "english": "Loss of Focus and Consistency",
+    "hindi": "एकाग्रता और निरंतरता की कमी"
+  },
+  "problem_statement": {
+    "english": "I start things with enthusiasm but fail to stay consistent.",
+    "hindi": "मैं उत्साह से शुरू करता हूँ लेकिन निरंतरता नहीं बना पाता।"
+  },
+  "context": {
+    "english": "Inconsistency arises when motivation replaces commitment.",
+    "hindi": "जब प्रतिबद्धता की जगह प्रेरणा आ जाती है, निरंतरता टूट जाती है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita emphasizes steady practice over bursts of effort.",
+      "hindi": "गीता झटकों वाले प्रयासों से अधिक निरंतर अभ्यास पर ज़ोर देती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 6,
+        "shloka": 23,
+        "english": "Practice yoga with determination and patience.",
+        "hindi": "योग का अभ्यास धैर्य और दृढ़ता से करो।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Reduce dependence on motivation.",
+      "Commit to small daily effort.",
+      "Value consistency over intensity."
+    ],
+    "hindi": [
+      "प्रेरणा पर निर्भरता कम करें।",
+      "छोटे दैनिक प्रयासों से जुड़ें।",
+      "तीव्रता से अधिक निरंतरता को महत्व दें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What can I do even on low-energy days?",
+      "Am I expecting too much too fast?"
+    ],
+    "hindi": [
+      "कम ऊर्जा वाले दिनों में भी मैं क्या कर सकता हूँ?",
+      "क्या मैं बहुत जल्दी बहुत अधिक अपेक्षा कर रहा हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Consistency outlives motivation.",
+    "hindi": "निरंतरता प्रेरणा से अधिक टिकाऊ होती है।"
+  }
+},
+
+{
+  "id": "GR_026",
+  "category": {
+    "english": "Burnout and Exhaustion",
+    "hindi": "थकावट और मानसिक जलन"
+  },
+  "problem_statement": {
+    "english": "I feel drained and exhausted even after resting.",
+    "hindi": "विश्राम के बाद भी मैं थका हुआ और खाली महसूस करता हूँ।"
+  },
+  "context": {
+    "english": "Burnout arises when effort continues without inner nourishment.",
+    "hindi": "जब आंतरिक पोषण के बिना प्रयास चलता रहता है, तब थकावट उत्पन्न होती है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches renewal through balance and inner alignment.",
+      "hindi": "गीता संतुलन और आंतरिक समरसता द्वारा नवजीवन सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 6,
+        "shloka": 17,
+        "english": "Yoga is for one who is balanced in effort and rest.",
+        "hindi": "योग संतुलित प्रयास और विश्राम वाले के लिए है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Acknowledge exhaustion without guilt.",
+      "Differentiate between rest and escape.",
+      "Reconnect effort with meaning."
+    ],
+    "hindi": [
+      "थकावट को बिना अपराधबोध स्वीकार करें।",
+      "विश्राम और पलायन में अंतर पहचानें।",
+      "प्रयास को अर्थ से पुनः जोड़ें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What am I giving without replenishing?",
+      "Where can I allow gentleness?"
+    ],
+    "hindi": [
+      "मैं क्या दे रहा हूँ बिना स्वयं को भरने के?",
+      "मैं कहाँ कोमलता की अनुमति दे सकता हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Rest restores when it is conscious.",
+    "hindi": "जब विश्राम सजग होता है, वह पुनर्स्थापित करता है।"
+  }
+},
+
+{
+  "id": "GR_027",
+  "category": {
+    "english": "Loss of Faith in Life or God",
+    "hindi": "जीवन या ईश्वर में विश्वास की कमी"
+  },
+  "problem_statement": {
+    "english": "I feel disconnected and doubtful about life or God.",
+    "hindi": "मुझे जीवन या ईश्वर के प्रति संदेह और दूरी महसूस होती है।"
+  },
+  "context": {
+    "english": "Faith weakens when suffering feels personal and meaningless.",
+    "hindi": "जब पीड़ा व्यक्तिगत और निरर्थक लगने लगती है, विश्वास कमजोर होता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches trust through surrender, not blind belief.",
+      "hindi": "गीता अंधविश्वास नहीं, समर्पण द्वारा विश्वास सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 18,
+        "shloka": 66,
+        "english": "Take refuge in Me alone; do not grieve.",
+        "hindi": "केवल मेरी शरण में आओ; शोक मत करो।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Allow doubt without rejecting spirituality.",
+      "Release the need to understand everything.",
+      "Practice trust through small acts of surrender."
+    ],
+    "hindi": [
+      "आध्यात्मिकता को नकारे बिना संदेह को स्थान दें।",
+      "हर चीज़ समझने की आवश्यकता छोड़ें।",
+      "छोटे समर्पण के कर्मों से विश्वास का अभ्यास करें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Am I demanding certainty before trust?",
+      "What would surrender look like today?"
+    ],
+    "hindi": [
+      "क्या मैं विश्वास से पहले पूर्ण निश्चितता चाहता हूँ?",
+      "आज समर्पण कैसा दिख सकता है?"
+    ]
+  },
+  "closing_note": {
+    "english": "Faith returns when resistance softens.",
+    "hindi": "जब विरोध नरम पड़ता है, विश्वास लौटता है।"
+  }
+},
+
+{
+  "id": "GR_028",
+  "category": {
+    "english": "Doubt in Spiritual Path",
+    "hindi": "आध्यात्मिक मार्ग में संदेह"
+  },
+  "problem_statement": {
+    "english": "I doubt whether the spiritual path is right for me.",
+    "hindi": "मुझे संदेह है कि आध्यात्मिक मार्ग मेरे लिए सही है या नहीं।"
+  },
+  "context": {
+    "english": "Doubt arises when expectations replace patience.",
+    "hindi": "जब धैर्य की जगह अपेक्षाएँ ले लेती हैं, तब संदेह उत्पन्न होता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita treats doubt as a phase, not a failure.",
+      "hindi": "गीता संदेह को असफलता नहीं, एक चरण मानती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 4,
+        "shloka": 40,
+        "english": "The doubting soul finds no peace.",
+        "hindi": "संदेहात्मा को शांति नहीं मिलती।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Observe doubt without abandoning practice.",
+      "Release urgency for results.",
+      "Let understanding mature gradually."
+    ],
+    "hindi": [
+      "अभ्यास छोड़े बिना संदेह को देखें।",
+      "परिणामों की जल्दबाज़ी छोड़ें।",
+      "समझ को धीरे-धीरे परिपक्व होने दें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What expectation is causing doubt?",
+      "Can I continue without certainty?"
+    ],
+    "hindi": [
+      "कौन-सी अपेक्षा संदेह को जन्म दे रही है?",
+      "क्या मैं बिना पूर्ण निश्चितता के आगे बढ़ सकता हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Clarity follows patience.",
+    "hindi": "स्पष्टता धैर्य के पीछे आती है।"
+  }
+},
+
+{
+  "id": "GR_029",
+  "category": {
+    "english": "Fear of Surrendering Control",
+    "hindi": "नियंत्रण छोड़ने का भय"
+  },
+  "problem_statement": {
+    "english": "I fear losing control if I surrender.",
+    "hindi": "समर्पण करने पर नियंत्रण खोने का डर लगता है।"
+  },
+  "context": {
+    "english": "Control feels safe when trust feels risky.",
+    "hindi": "जब विश्वास जोखिम भरा लगता है, तब नियंत्रण सुरक्षित लगता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita defines surrender as intelligent alignment.",
+      "hindi": "गीता समर्पण को विवेकपूर्ण समरसता बताती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 12,
+        "shloka": 22,
+        "english": "Those who surrender to Me cross beyond fear.",
+        "hindi": "जो मुझे शरण लेते हैं, वे भय से पार हो जाते हैं।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Identify what you are trying to control.",
+      "Experiment with small acts of letting go.",
+      "Trust intelligence beyond ego."
+    ],
+    "hindi": [
+      "पहचानें कि आप क्या नियंत्रित करना चाहते हैं।",
+      "छोटे स्तर पर छोड़ने का प्रयोग करें।",
+      "अहंकार से परे बुद्धि पर भरोसा करें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What am I afraid will collapse?",
+      "What if support exists beyond control?"
+    ],
+    "hindi": [
+      "मुझे किसके टूटने का डर है?",
+      "यदि नियंत्रण से परे सहारा मौजूद हो तो?"
+    ]
+  },
+  "closing_note": {
+    "english": "Surrender is strength, not weakness.",
+    "hindi": "समर्पण कमजोरी नहीं, शक्ति है।"
+  }
+},
+
+{
+  "id": "GR_030",
+  "category": {
+    "english": "Balancing Devotion and Daily Life",
+    "hindi": "भक्ति और दैनिक जीवन का संतुलन"
+  },
+  "problem_statement": {
+    "english": "I struggle to balance spirituality with worldly responsibilities.",
+    "hindi": "आध्यात्मिकता और सांसारिक कर्तव्यों में संतुलन कठिन लगता है।"
+  },
+  "context": {
+    "english": "Conflict arises when spirituality is separated from daily action.",
+    "hindi": "जब आध्यात्मिकता को दैनिक कर्म से अलग किया जाता है, तब संघर्ष होता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita unites devotion with action.",
+      "hindi": "गीता भक्ति और कर्म को एक करती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 9,
+        "shloka": 27,
+        "english": "Whatever you do, offer it to Me.",
+        "hindi": "जो कुछ भी करो, मुझे अर्पित करो।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Bring awareness into ordinary actions.",
+      "Offer effort without expectation.",
+      "See daily life as spiritual practice."
+    ],
+    "hindi": [
+      "सामान्य कर्मों में भी सजगता लाएँ।",
+      "अपेक्षा के बिना प्रयास अर्पित करें।",
+      "दैनिक जीवन को साधना के रूप में देखें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "How can this action become devotion?",
+      "What if nothing is outside spirituality?"
+    ],
+    "hindi": [
+      "यह कर्म भक्ति कैसे बन सकता है?",
+      "यदि आध्यात्मिकता से बाहर कुछ भी न हो तो?"
+    ]
+  },
+  "closing_note": {
+    "english": "When devotion enters action, life becomes prayer.",
+    "hindi": "जब कर्म में भक्ति आती है, जीवन प्रार्थना बन जाता है।"
+  }
+},
+
+{
+  "id": "GR_031",
+  "category": {
+    "english": "Understanding the True Self",
+    "hindi": "सच्चे आत्मस्वरूप की खोज"
+  },
+  "problem_statement": {
+    "english": "I feel disconnected from who I truly am.",
+    "hindi": "मुझे अपने वास्तविक स्वरूप से जुड़ाव महसूस नहीं होता।"
+  },
+  "context": {
+    "english": "Confusion arises when identity is mistaken for body, mind, or roles.",
+    "hindi": "जब पहचान शरीर, मन या भूमिकाओं से जोड़ दी जाती है, तब भ्रम उत्पन्न होता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita reveals the Self as eternal, unchanged, and aware.",
+      "hindi": "गीता आत्मा को शाश्वत, अपरिवर्तनीय और साक्षी बताती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 2,
+        "shloka": 20,
+        "english": "The soul is never born nor does it die.",
+        "hindi": "आत्मा न जन्म लेती है, न मरती है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Notice what changes in you.",
+      "Ask what remains constant through all change.",
+      "Rest in awareness rather than identity."
+    ],
+    "hindi": [
+      "अपने भीतर होने वाले परिवर्तनों को देखें।",
+      "पूछें कि इन सब परिवर्तनों में क्या स्थिर रहता है।",
+      "पहचान नहीं, सजगता में ठहरें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "Who am I beyond thoughts and emotions?",
+      "What observes my experiences?"
+    ],
+    "hindi": [
+      "विचारों और भावनाओं से परे मैं कौन हूँ?",
+      "मेरे अनुभवों को देखने वाला कौन है?"
+    ]
+  },
+  "closing_note": {
+    "english": "Self-knowledge begins when identification ends.",
+    "hindi": "जब पहचान समाप्त होती है, आत्मज्ञान प्रारंभ होता है।"
+  }
+},
+
+{
+  "id": "GR_032",
+  "category": {
+    "english": "Freedom from Fear and Death Anxiety",
+    "hindi": "मृत्यु और भय से मुक्ति"
+  },
+  "problem_statement": {
+    "english": "I fear death and uncertainty deeply.",
+    "hindi": "मुझे मृत्यु और अनिश्चितता से गहरा भय लगता है।"
+  },
+  "context": {
+    "english": "Fear intensifies when impermanence is resisted.",
+    "hindi": "जब अनित्यता को स्वीकार नहीं किया जाता, भय बढ़ता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches fearlessness through understanding immortality.",
+      "hindi": "गीता अमर आत्मा के ज्ञान से निर्भयता सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 2,
+        "shloka": 27,
+        "english": "Death is certain for the born; birth is certain for the dead.",
+        "hindi": "जन्मे हुए की मृत्यु निश्चित है और मरे हुए का जन्म निश्चित है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Contemplate impermanence gently.",
+      "Shift focus from body to awareness.",
+      "Allow acceptance to soften fear."
+    ],
+    "hindi": [
+      "अनित्यता पर कोमलता से चिंतन करें।",
+      "शरीर से ध्यान हटाकर सजगता पर लाएँ।",
+      "स्वीकृति को भय को नरम करने दें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What exactly am I afraid of losing?",
+      "Is the observer ever destroyed?"
+    ],
+    "hindi": [
+      "मैं वास्तव में किसे खोने से डर रहा हूँ?",
+      "क्या साक्षी कभी नष्ट होता है?"
+    ]
+  },
+  "closing_note": {
+    "english": "Fear dissolves in understanding.",
+    "hindi": "समझ में भय विलीन हो जाता है।"
+  }
+},
+
+{
+  "id": "GR_033",
+  "category": {
+    "english": "Letting Go of Past and Regret",
+    "hindi": "अतीत और पछतावे को छोड़ना"
+  },
+  "problem_statement": {
+    "english": "I am burdened by past mistakes and regret.",
+    "hindi": "मैं अतीत की गलतियों और पछतावे से दबा हुआ हूँ।"
+  },
+  "context": {
+    "english": "Regret persists when the past is relived instead of learned from.",
+    "hindi": "जब अतीत से सीखने के बजाय उसे दोहराया जाता है, पछतावा बना रहता है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches renewal through present action.",
+      "hindi": "गीता वर्तमान कर्म द्वारा नवीकरण सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 6,
+        "shloka": 5,
+        "english": "Lift yourself by yourself.",
+        "hindi": "अपने द्वारा अपना उद्धार करो।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Acknowledge the past without dwelling.",
+      "Extract learning, not punishment.",
+      "Choose presence over memory."
+    ],
+    "hindi": [
+      "अतीत को स्वीकार करें, उसमें न उलझें।",
+      "दंड नहीं, सीख निकालें।",
+      "स्मृति की जगह वर्तमान चुनें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What lesson is this regret offering?",
+      "Who am I choosing to be now?"
+    ],
+    "hindi": [
+      "यह पछतावा मुझे क्या सिखा रहा है?",
+      "मैं अभी किसे चुन रहा हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Freedom lives in the present.",
+    "hindi": "स्वतंत्रता वर्तमान में निवास करती है।"
+  }
+},
+
+{
+  "id": "GR_035",
+  "category": {
+    "english": "Acceptance of Life as It Is",
+    "hindi": "जीवन को जैसा है वैसा स्वीकार करना"
+  },
+  "problem_statement": {
+    "english": "I resist reality and feel frustrated.",
+    "hindi": "मैं वास्तविकता का विरोध करता हूँ और निराश महसूस करता हूँ।"
+  },
+  "context": {
+    "english": "Suffering increases when reality is rejected.",
+    "hindi": "जब वास्तविकता को अस्वीकार किया जाता है, पीड़ा बढ़ती है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita teaches acceptance without passivity.",
+      "hindi": "गीता निष्क्रियता नहीं, सजग स्वीकृति सिखाती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 12,
+        "shloka": 15,
+        "english": "He who is not disturbed by the world is dear to Me.",
+        "hindi": "जो संसार से विचलित नहीं होता, वह मुझे प्रिय है।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Allow reality without immediate judgment.",
+      "Release resistance before response.",
+      "Act from clarity, not denial."
+    ],
+    "hindi": [
+      "तुरंत मूल्यांकन किए बिना वास्तविकता को स्थान दें।",
+      "उत्तर से पहले विरोध छोड़ें।",
+      "अस्वीकृति नहीं, स्पष्टता से कर्म करें।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What am I resisting right now?",
+      "What becomes possible if I accept this?"
+    ],
+    "hindi": [
+      "मैं इस समय किसका विरोध कर रहा हूँ?",
+      "यदि मैं इसे स्वीकार कर लूँ तो क्या संभव होगा?"
+    ]
+  },
+  "closing_note": {
+    "english": "Acceptance opens the door to intelligent action.",
+    "hindi": "स्वीकृति विवेकपूर्ण कर्म का द्वार खोलती है।"
+  }
+},
+
+{
+  "id": "GR_036",
+  "category": {
+    "english": "Living with Wisdom and Inner Freedom",
+    "hindi": "बुद्धि और आंतरिक स्वतंत्रता के साथ जीवन"
+  },
+  "problem_statement": {
+    "english": "I want to live freely without inner conflict.",
+    "hindi": "मैं आंतरिक संघर्ष के बिना स्वतंत्र जीवन जीना चाहता हूँ।"
+  },
+  "context": {
+    "english": "Freedom arises when wisdom guides action.",
+    "hindi": "जब बुद्धि कर्म का मार्गदर्शन करती है, स्वतंत्रता उत्पन्न होती है।"
+  },
+  "gita_guidance": {
+    "summary": {
+      "english": "The Gita presents liberation as inner mastery, not escape.",
+      "hindi": "गीता मुक्ति को पलायन नहीं, आंतरिक प्रभुत्व बताती है।"
+    },
+    "shlokas": [
+      {
+        "chapter": 18,
+        "shloka": 66,
+        "english": "Surrender and be free from all sorrow.",
+        "hindi": "समर्पण करो और समस्त दुःखों से मुक्त हो जाओ।"
+      }
+    ]
+  },
+  "reflection_flow": {
+    "english": [
+      "Align action with understanding.",
+      "Release inner resistance.",
+      "Live from awareness, not compulsion."
+    ],
+    "hindi": [
+      "कर्म को समझ के साथ समरस करें।",
+      "आंतरिक विरोध छोड़ें।",
+      "बाध्यता नहीं, सजगता से जिएँ।"
+    ]
+  },
+  "self_questions": {
+    "english": [
+      "What would a wise response look like?",
+      "What am I ready to release?"
+    ],
+    "hindi": [
+      "विवेकपूर्ण उत्तर कैसा होगा?",
+      "मैं क्या छोड़ने को तैयार हूँ?"
+    ]
+  },
+  "closing_note": {
+    "english": "Freedom is the fruit of wisdom lived.",
+    "hindi": "जी गई बुद्धि ही स्वतंत्रता का फल है।"
+  }
+}
+]

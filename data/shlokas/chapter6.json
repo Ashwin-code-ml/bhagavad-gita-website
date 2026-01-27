@@ -1,0 +1,288 @@
+{
+  "chapter": 6,
+  "name": "Dhyana Yoga",
+  "shlokas": [
+    {
+      "number": 1,
+      "sanskrit": "श्रीभगवानुवाच। अनाश्रितः कर्मफलं कार्यं कर्म करोति यः। स संन्यासी च योगी च न निरग्निर्न चाक्रियः॥",
+      "hindi": "श्रीभगवान बोले—जो पुरुष कर्मफल का आश्रय लिए बिना कर्तव्य कर्म करता है, वही संन्यासी और योगी है; न कि वह जो अग्नि और कर्म का त्याग करता है।",
+      "english": "The Blessed Lord said: He who performs his duty without depending on the fruits of action is a renunciate and a yogi—not he who has merely given up ritual fires and actions."
+    },
+    {
+      "number": 2,
+      "sanskrit": "यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव। न ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन॥",
+      "hindi": "हे पाण्डव! जिसे संन्यास कहते हैं, उसे ही योग जानो; क्योंकि संकल्पों का त्याग किए बिना कोई योगी नहीं बन सकता।",
+      "english": "O Pandava, know that what is called renunciation is itself yoga, for no one becomes a yogi without renouncing selfish intentions."
+    },
+    {
+      "number": 3,
+      "sanskrit": "आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते। योगारूढस्य तस्यैव शमः कारणमुच्यते॥",
+      "hindi": "योग में आरोहण करने वाले मुनि के लिए कर्म साधन कहा गया है और योगारूढ़ के लिए शम (मन की शांति) साधन कहा गया है।",
+      "english": "For the sage who seeks to attain yoga, action is said to be the means; for one who has attained yoga, tranquility is the means."
+    },
+    {
+      "number": 4,
+      "sanskrit": "यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते। सर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते॥",
+      "hindi": "जब पुरुष न इंद्रिय विषयों में और न कर्मों में आसक्त होता है, तब वह संकल्पों का त्याग करने वाला योगारूढ़ कहलाता है।",
+      "english": "When one is not attached to sense objects or to actions, having renounced all intentions, then one is said to be established in yoga."
+    },
+    {
+      "number": 5,
+      "sanskrit": "उद्धरेदात्मनाऽत्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥",
+      "hindi": "मनुष्य को अपने द्वारा अपना उद्धार करना चाहिए, अपना पतन नहीं करना चाहिए; क्योंकि आत्मा ही आत्मा का मित्र है और आत्मा ही आत्मा का शत्रु है।",
+      "english": "One should uplift oneself by one’s own self and not degrade oneself; the self alone is the friend of the self, and the self alone is the enemy of the self."
+    },
+    {
+      "number": 6,
+      "sanskrit": "बन्धुरात्माऽत्मनस्तस्य येनात्मैवात्मना जितः। अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्॥",
+      "hindi": "जिसने अपने आत्मा द्वारा आत्मा को जीत लिया है, उसके लिए आत्मा मित्र है; जिसने आत्मा को नहीं जीता, उसके लिए आत्मा शत्रु के समान व्यवहार करता है।",
+      "english": "For one who has conquered the self by the self, the self is a friend; but for one who has not conquered the self, the self acts as an enemy."
+    },
+    {
+      "number": 7,
+      "sanskrit": "जितात्मनः प्रशान्तस्य परमात्मा समाहितः। शीतोष्णसुखदुःखेषु तथा मानापमानयोः॥",
+      "hindi": "जिसने आत्मा को जीत लिया है और जिसका मन शांत है, उसके लिए परमात्मा शीत-उष्ण, सुख-दुःख और मान-अपमान में समान रूप से स्थित रहता है।",
+      "english": "For one who has conquered the self and is tranquil, the Supreme Self is realized; he remains balanced in cold and heat, pleasure and pain, honor and dishonor."
+    },
+    {
+      "number": 8,
+      "sanskrit": "ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः। युक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः॥",
+      "hindi": "जो ज्ञान और विज्ञान से तृप्त है, स्थिर है, इंद्रियों को जीत चुका है और मिट्टी, पत्थर तथा सोने को समान देखता है—वह योगी कहलाता है।",
+      "english": "The yogi who is satisfied with knowledge and realization, steady, self-controlled, and who sees earth, stone, and gold alike, is said to be established in yoga."
+    },
+    {
+      "number": 9,
+      "sanskrit": "सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु। साधुष्वपि च पापेषु समबुद्धिर्विशिष्यते॥",
+      "hindi": "मित्र, शत्रु, उदासीन, मध्यस्थ, द्वेषी, संबंधी, साधु और पापी—सब में समान बुद्धि रखने वाला श्रेष्ठ है।",
+      "english": "He is distinguished who has equal regard for friends, enemies, neutrals, mediators, the hateful, relatives, the righteous, and even sinners."
+    },
+    {
+      "number": 10,
+      "sanskrit": "योगी युञ्जीत सततमात्मानं रहसि स्थितः। एकाकी यतचित्तात्मा निराशीरपरिग्रहः॥",
+      "hindi": "योगी को चाहिए कि वह एकांत में स्थित होकर, अकेला, मन और आत्मा को संयमित करके, आशा और संग्रह से रहित होकर निरंतर आत्मा का अभ्यास करे।",
+      "english": "Let the yogi constantly discipline himself, remaining in solitude, alone, with mind and self controlled, free from hope and possessions."
+    },
+    {
+      "number": 11,
+      "sanskrit": "शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः। नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम्॥",
+      "hindi": "शुद्ध स्थान में अपने लिए स्थिर आसन स्थापित करे, जो न बहुत ऊँचा हो न बहुत नीचा, और जिस पर कुशा, मृगचर्म और वस्त्र बिछे हों।",
+      "english": "In a clean place, having established a firm seat, neither too high nor too low, covered with cloth, skin, and kusa grass."
+    },
+    {
+      "number": 12,
+      "sanskrit": "तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः। उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये॥",
+      "hindi": "उस आसन पर बैठकर, चित्त और इंद्रियों की क्रियाओं को संयमित करके, मन को एकाग्र कर आत्मशुद्धि के लिए योग का अभ्यास करे।",
+      "english": "There, having made the mind one-pointed and restraining the activities of mind and senses, let him practice yoga for self-purification."
+    },
+    {
+      "number": 13,
+      "sanskrit": "समं कायशिरोग्रीवं धारयन्नचलं स्थिरः। सम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन्॥",
+      "hindi": "शरीर, सिर और गर्दन को सीधा और स्थिर रखते हुए, नासिका के अग्रभाग पर दृष्टि टिकाए और अन्य दिशाओं को न देखे।",
+      "english": "Holding the body, head, and neck erect and steady, gazing at the tip of the nose, without looking around."
+    },
+    {
+      "number": 14,
+      "sanskrit": "प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः। मनः संयम्य मच्चित्तो युक्त आसीत मत्परः॥",
+      "hindi": "शांत आत्मा, भय रहित, ब्रह्मचर्य व्रत में स्थित, मन को संयमित कर मुझमें चित्त लगाए हुए योग में स्थित रहे।",
+      "english": "With a serene mind, free from fear, firm in the vow of celibacy, controlling the mind and thinking of Me, he should sit disciplined and devoted to Me."
+    },
+    {
+      "number": 15,
+      "sanskrit": "युञ्जन्नेवं सदाऽत्मानं योगी नियतमानसः। शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति॥",
+      "hindi": "इस प्रकार निरंतर आत्मा का अभ्यास करने वाला और संयमित मन वाला योगी मुझमें स्थित परम निर्वाण रूपी शांति को प्राप्त करता है।",
+      "english": "Thus constantly disciplining himself, the yogi with a controlled mind attains supreme peace, which abides in Me."
+    },
+    {
+      "number": 16,
+      "sanskrit": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः। न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन॥",
+      "hindi": "हे अर्जुन! न तो अधिक खाने वाले का योग होता है, न बिल्कुल न खाने वाले का; न अधिक सोने वाले का और न अत्यधिक जागने वाले का।",
+      "english": "Yoga is not for one who eats too much or too little, nor for one who sleeps too much or too little, O Arjuna."
+    },
+    {
+      "number": 17,
+      "sanskrit": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु। युक्तस्वप्नावबोधस्य योगो भवति दुःखहा॥",
+      "hindi": "युक्त आहार-विहार, युक्त कर्म, और युक्त निद्रा-जागरण वाले का योग दुःख का नाश करने वाला होता है।",
+      "english": "Yoga becomes the destroyer of sorrow for one who is moderate in eating and recreation, balanced in work, and regulated in sleep and wakefulness."
+    },
+    {
+      "number": 18,
+      "sanskrit": "यदा विनियतं चित्तमात्मन्येवावतिष्ठते। निःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा॥",
+      "hindi": "जब पूर्णतः नियंत्रित चित्त आत्मा में ही स्थित हो जाता है और सभी कामनाओं से रहित हो जाता है, तब वह युक्त कहलाता है।",
+      "english": "When the perfectly disciplined mind rests in the Self alone, free from longing for all desires, then one is said to be established in yoga."
+    },
+    {
+      "number": 19,
+      "sanskrit": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता। योगिनो यतचित्तस्य युञ्जतो योगमात्मनः॥",
+      "hindi": "जैसे वायु रहित स्थान में दीपक की लौ स्थिर रहती है, वैसी ही उपमा योग का अभ्यास करने वाले संयमित चित्त योगी की कही गई है।",
+      "english": "As a lamp in a windless place does not flicker, so is the mind of the yogi who practices yoga with self-control."
+    },
+    {
+      "number": 20,
+      "sanskrit": "यत्रोपरमते चित्तं निरुद्धं योगसेवया। यत्र चैवात्मनाऽत्मानं पश्यन्नात्मनि तुष्यति॥",
+      "hindi": "जहाँ योग के अभ्यास से चित्त निरुद्ध हो जाता है और जहाँ आत्मा द्वारा आत्मा को देखकर आत्मा में ही तुष्ट होता है—",
+      "english": "Where the mind comes to rest, restrained by the practice of yoga, and where seeing the Self by the self, one rejoices in the Self."
+    },
+    {
+      "number": 21,
+      "sanskrit": "सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम्। वेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः॥",
+      "hindi": "वहाँ वह अत्यंत सुख अनुभव करता है जो बुद्धि द्वारा ग्रहण किया जाता है और इंद्रियों से परे है; उसमें स्थित होकर वह कभी विचलित नहीं होता।",
+      "english": "That supreme happiness is perceived by the intellect beyond the senses; established there, one never departs from the truth."
+    },
+    {
+      "number": 22,
+      "sanskrit": "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः। यस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते॥",
+      "hindi": "जिसे प्राप्त करके मनुष्य उससे बढ़कर कोई लाभ नहीं मानता और जिसमें स्थित होकर वह बड़े से बड़े दुःख से भी विचलित नहीं होता।",
+      "english": "Having gained this, one considers no other gain superior; established in it, one is not shaken even by great sorrow."
+    },
+    {
+      "number": 23,
+      "sanskrit": "तं विद्याद्दुःखसंयोगवियोगं योगसंज्ञितम्। स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा॥",
+      "hindi": "उस अवस्था को दुःख के संयोग से वियोग कहा गया है; उसी को योग जानना चाहिए और दृढ़ निश्चय से, अविचलित चित्त से उसका अभ्यास करना चाहिए।",
+      "english": "Let that be known as yoga—the disconnection from union with sorrow; this yoga should be practiced with determination and an undespairing mind."
+    },
+{
+  "number": 24,
+  "sanskrit": "सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः। मनसैवेन्द्रियग्रामं विनियम्य समन्ततः॥",
+  "hindi": "संकल्प से उत्पन्न सभी कामनाओं को पूर्ण रूप से त्यागकर और मन द्वारा सभी इंद्रियों को चारों ओर से नियंत्रित करके—",
+  "english": "Abandoning completely all desires born of imagination and restraining the whole group of senses by the mind from all sides—"
+},
+{
+  "number": 25,
+  "sanskrit": "शनैः शनैरुपरमेद्बुद्ध्या धृतिगृहीतया। आत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत्॥",
+  "hindi": "धैर्ययुक्त बुद्धि से धीरे-धीरे मन को शांत करे और मन को आत्मा में स्थित करके फिर किसी अन्य वस्तु का चिंतन न करे।",
+  "english": "Gradually, with a steady intellect endowed with firmness, one should quiet the mind, fixing it in the Self, and think of nothing else."
+},
+{
+  "number": 26,
+  "sanskrit": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम्। ततस्ततो नियम्यैतदात्मन्येव वशं नयेत्॥",
+  "hindi": "यह चंचल और अस्थिर मन जहाँ-जहाँ भटकता है, वहाँ-वहाँ से उसे हटाकर आत्मा के अधीन ले आए।",
+  "english": "Wherever the restless and unsteady mind wanders, one should withdraw it and bring it back under the control of the Self."
+},
+{
+  "number": 27,
+  "sanskrit": "प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम्। उपैति शान्तरजसं ब्रह्मभूतमकल्मषम्॥",
+  "hindi": "जिस योगी का मन पूर्णतः शांत हो गया है, रजोगुण शांत हो गया है और जो पापरहित होकर ब्रह्मरूप हो गया है—वह उत्तम सुख को प्राप्त करता है।",
+  "english": "Supreme bliss comes to this yogi whose mind is peaceful, whose passion is calmed, who is free from sin and has become Brahman."
+},
+{
+  "number": 28,
+  "sanskrit": "युञ्जन्नेवं सदाऽत्मानं योगी विगतकल्मषः। सुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते॥",
+  "hindi": "इस प्रकार निरंतर आत्मा का अभ्यास करने वाला पापरहित योगी सहज ही ब्रह्म-स्पर्श से उत्पन्न अत्यंत सुख को भोगता है।",
+  "english": "Thus constantly disciplining himself, the yogi, freed from impurities, easily enjoys infinite bliss through contact with Brahman."
+},
+{
+  "number": 29,
+  "sanskrit": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि। ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः॥",
+  "hindi": "योग से युक्त आत्मा सभी प्राणियों में आत्मा को और आत्मा में सभी प्राणियों को देखता है; वह सर्वत्र समदर्शी होता है।",
+  "english": "The yogi whose mind is harmonized by yoga sees the Self abiding in all beings and all beings in the Self; he sees the same everywhere."
+},
+{
+  "number": 30,
+  "sanskrit": "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति। तस्याहं न प्रणश्यामि स च मे न प्रणश्यति॥",
+  "hindi": "जो मुझे सर्वत्र देखता है और सब कुछ मुझमें देखता है, उसके लिए मैं कभी अदृश्य नहीं होता और वह भी मेरे लिए अदृश्य नहीं होता।",
+  "english": "He who sees Me everywhere and sees everything in Me, I am never lost to him, nor is he ever lost to Me."
+},
+{
+  "number": 31,
+  "sanskrit": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः। सर्वथा वर्तमानोऽपि स योगी मयि वर्तते॥",
+  "hindi": "जो सभी प्राणियों में स्थित मुझको एकत्वभाव से भजता है, वह योगी किसी भी अवस्था में रहते हुए मुझमें ही स्थित रहता है।",
+  "english": "He who worships Me, abiding in unity, dwelling in all beings—though he acts in every way, he dwells in Me."
+},
+{
+  "number": 32,
+  "sanskrit": "आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन। सुखं वा यदि वा दुःखं स योगी परमो मतः॥",
+  "hindi": "हे अर्जुन! जो अपने समान ही सभी में सुख-दुःख को देखता है, वही परम योगी माना गया है।",
+  "english": "O Arjuna, he who sees equality everywhere, by comparison with himself, in pleasure or in pain, is considered the supreme yogi."
+},
+{
+  "number": 33,
+  "sanskrit": "अर्जुन उवाच। योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन। एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम्॥",
+  "hindi": "अर्जुन ने कहा—हे मधुसूदन! आपने जो यह समभाव रूपी योग कहा है, मन की चंचलता के कारण मुझे इसकी स्थिर स्थिति नहीं दिखती।",
+  "english": "Arjuna said: O Madhusudana, this yoga of equanimity which You have described, I do not see its steady continuance due to the restlessness of the mind."
+},
+{
+  "number": 34,
+  "sanskrit": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्दृढम्। तस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्॥",
+  "hindi": "हे कृष्ण! मन चंचल, प्रमथन करने वाला, बलवान और दृढ़ है; इसे वश में करना मैं वायु को रोकने जैसा कठिन मानता हूँ।",
+  "english": "The mind is restless, turbulent, powerful, and obstinate, O Krishna; I consider its control to be as difficult as controlling the wind."
+},
+{
+  "number": 35,
+  "sanskrit": "श्रीभगवानुवाच। असंशयं महाबाहो मनो दुर्निग्रहं चलम्। अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते॥",
+  "hindi": "श्रीभगवान बोले—हे महाबाहु! निश्चय ही मन चंचल और कठिनता से नियंत्रित होने वाला है; परंतु अभ्यास और वैराग्य से इसे वश में किया जा सकता है।",
+  "english": "The Blessed Lord said: Undoubtedly, O mighty-armed one, the mind is restless and hard to restrain, but it can be controlled by practice and detachment."
+},
+{
+  "number": 36,
+  "sanskrit": "असंयतात्मना योगो दुष्प्राप इति मे मतिः। वश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः॥",
+  "hindi": "असंयमित आत्मा के लिए योग दुर्लभ है—ऐसा मेरा मत है; परंतु संयमित आत्मा और प्रयत्नशील व्यक्ति के लिए यह उपाय से प्राप्त किया जा सकता है।",
+  "english": "Yoga is difficult to attain for one who is uncontrolled; but for one who is self-controlled and striving, it is attainable by proper means."
+},
+{
+  "number": 37,
+  "sanskrit": "अर्जुन उवाच। अयतिः श्रद्धयोपेतो योगाच्चलितमानसः। अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति॥",
+  "hindi": "अर्जुन ने कहा—हे कृष्ण! जो श्रद्धावान है किंतु असंयमित होने के कारण योग से विचलित हो जाता है और सिद्धि को नहीं पाता, वह किस गति को प्राप्त होता है?",
+  "english": "Arjuna said: O Krishna, what is the fate of one who has faith but whose mind wanders away from yoga and who does not attain perfection?"
+},
+{
+  "number": 38,
+  "sanskrit": "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति। अप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि॥",
+  "hindi": "हे महाबाहु! क्या वह ब्रह्म के मार्ग में मोहित होकर आधारहीन बादल की भाँति नष्ट हो जाता है?",
+  "english": "O mighty-armed one, does he not perish like a torn cloud, having fallen from both paths, without support on the path of Brahman?"
+},
+{
+  "number": 39,
+  "sanskrit": "एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः। त्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते॥",
+  "hindi": "हे कृष्ण! इस मेरे संशय को पूर्णतः काटने योग्य आप ही हैं; आपके अतिरिक्त इस संशय को दूर करने वाला कोई नहीं है।",
+  "english": "This doubt of mine, O Krishna, You should completely dispel; for none other than You can remove this doubt."
+},
+{
+  "number": 40,
+  "sanskrit": "श्रीभगवानुवाच। पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते। न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति॥",
+  "hindi": "श्रीभगवान बोले—हे पार्थ! न तो इस लोक में और न परलोक में उसका विनाश होता है; क्योंकि कल्याण करने वाला कोई भी दुर्गति को नहीं जाता।",
+  "english": "The Blessed Lord said: O Partha, neither in this world nor in the next is there destruction for him; one who does good never comes to grief."
+},
+{
+  "number": 41,
+  "sanskrit": "प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः। शुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते॥",
+  "hindi": "पुण्यवानों के लोकों को प्राप्त कर और वहाँ दीर्घकाल तक निवास करके, योगभ्रष्ट पुरुष शुद्ध और समृद्ध परिवार में जन्म लेता है।",
+  "english": "Having attained the worlds of the righteous and dwelt there for long years, one who fell from yoga is reborn in a pure and prosperous family."
+},
+{
+  "number": 42,
+  "sanskrit": "अथवा योगिनामेव कुले भवति धीमताम्। एतद्धि दुर्लभतरं लोके जन्म यदीदृशम्॥",
+  "hindi": "या फिर वह ज्ञानी योगियों के कुल में जन्म लेता है; ऐसा जन्म संसार में अत्यंत दुर्लभ है।",
+  "english": "Or he is born in a family of wise yogis; such a birth is indeed very rare in this world."
+},
+{
+  "number": 43,
+  "sanskrit": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम्। यतते च ततो भूयः संसिद्धौ कुरुनन्दन॥",
+  "hindi": "हे कुरुनन्दन! वहाँ वह पूर्वजन्म की बुद्धिसंयोग को प्राप्त करता है और पुनः सिद्धि के लिए प्रयास करता है।",
+  "english": "There he regains the spiritual understanding of his former life and strives again for perfection, O son of the Kurus."
+},
+{
+  "number": 44,
+  "sanskrit": "पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः। जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते॥",
+  "hindi": "पूर्व अभ्यास के प्रभाव से वह अनिच्छा से भी योग की ओर खिंच जाता है; योग को जानने की इच्छा मात्र से वह वेदकर्मों से ऊपर उठ जाता है।",
+  "english": "By that very former practice, he is carried forward even unwillingly; even the seeker of yoga transcends the ritualistic words of the Vedas."
+},
+{
+  "number": 45,
+  "sanskrit": "प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः। अनेकजन्मसंसिद्धस्ततो याति परां गतिम्॥",
+  "hindi": "प्रयत्नपूर्वक अभ्यास करने वाला योगी, पापों से पूर्णतः शुद्ध होकर, अनेक जन्मों में सिद्धि प्राप्त कर अंततः परम गति को प्राप्त होता है।",
+  "english": "But the yogi who strives diligently, purified of sins, perfected through many births, then attains the supreme goal."
+},
+{
+  "number": 46,
+  "sanskrit": "तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः। कर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन॥",
+  "hindi": "योगी तपस्वियों से श्रेष्ठ है, ज्ञानियों से भी श्रेष्ठ माना गया है और कर्मियों से भी श्रेष्ठ है; इसलिए हे अर्जुन! तुम योगी बनो।",
+  "english": "The yogi is considered superior to ascetics, superior to men of knowledge, and superior to men of action; therefore, O Arjuna, become a yogi."
+},
+{
+  "number": 47,
+  "sanskrit": "योगिनामपि सर्वेषां मद्गतेनान्तरात्मना। श्रद्धावान्भजते यो मां स मे युक्ततमो मतः॥",
+  "hindi": "सब योगियों में भी जो श्रद्धा से युक्त होकर अंतःकरण से मुझमें स्थित होकर मुझे भजता है, वही मेरे मत में सर्वोत्तम योगी है।",
+  "english": "Of all yogis, he who worships Me with faith, with his inner self absorbed in Me, is considered by Me to be the highest yogi."
+}
+  ]
+}
