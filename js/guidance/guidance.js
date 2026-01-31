@@ -1,6 +1,6 @@
 const tbody = document.getElementById("guidance-body");
 
-fetch("/data/guidance/guidance.json")
+fetch("../../data/guidance/guidance.json")
     .then(res => res.json())
     .then(data => renderTable(data))
     .catch(err => {
@@ -94,3 +94,4 @@ function renderTable(data) {
         tbody.appendChild(expandRow);
     });
 }
+
