@@ -14,7 +14,7 @@ if (!chapterNumber) {
 }
 
 // Fetch JSON
-fetch(`/data/shlokas/chapter${chapterNumber}.json`)
+fetch(`../../data/shlokas/chapter${chapterNumber}.json`)
     .then(res => res.json())
     .then(data => {
         // Set header
@@ -43,4 +43,5 @@ fetch(`/data/shlokas/chapter${chapterNumber}.json`)
 
     function goBack() {
     window.history.back();
+
 }
