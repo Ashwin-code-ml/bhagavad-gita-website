@@ -7,5 +7,6 @@ function copyUPI() {
 }
 
 function joinTelegram() {
-    window.open("https://t.me/YourTelegramChannel", "_blank");
+    window.open("https://t.me/bhagvad_gita_daily", "_blank");
 }
+
