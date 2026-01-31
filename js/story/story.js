@@ -2,7 +2,7 @@ let currentLanguage = "hindi";
 let storyData = null;
 
 document.addEventListener("DOMContentLoaded", () => {
-    fetch("/data/story/story_all.json")
+    fetch("../../data/story/story_all.json")
         .then(res => res.json())
         .then(data => {
             storyData = data;
@@ -62,3 +62,4 @@ function setupLanguageToggle() {
         });
     });
 }
+
