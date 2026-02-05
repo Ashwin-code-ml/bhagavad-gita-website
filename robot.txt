@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ashwin-code-ml.github.io/bhagavad-gita-website/sitemap.xml
