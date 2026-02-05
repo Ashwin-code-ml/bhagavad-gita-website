@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://ashwin-code-ml.github.io/bhagavad-gita-website/index.html</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Story -->
+  <url>
+    <loc>https://ashwin-code-ml.github.io/bhagavad-gita-website/html/story/story.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Guidance -->
+  <url>
+    <loc>https://ashwin-code-ml.github.io/bhagavad-gita-website/html/guidance/guidance.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Shlokas Main -->
+  <url>
+    <loc>https://ashwin-code-ml.github.io/bhagavad-gita-website/html/shlokas/shlokas.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Shlokas Chapters -->
+  <url>
+    <loc>https://ashwin-code-ml.github.io/bhagavad-gita-website/html/shlokas/chapters.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Support -->
+  <url>
+    <loc>https://ashwin-code-ml.github.io/bhagavad-gita-website/html/support/support.html</loc>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
