@@ -2,55 +2,52 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Bhagavad Gita – Story</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>The Story of Bhagavad Gita: Context, Narrative & Meaning</title>
+    <meta name="description" content="Read the complete narrative of the Bhagavad Gita. Understand the background of the Kurukshetra war, Arjuna's dilemma, and Krishna's timeless wisdom in English and Hindi.">
+    <meta name="keywords" content="Bhagavad Gita Story, Mahabharata, Arjuna and Krishna, Gita Narrative, Kurukshetra War Context">
 
-    <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-    <!-- CSS -->
     <link rel="stylesheet" href="../../css/story/story.css">
 </head>
 <body>
 
-<!-- Navbar (same as dashboard) -->
-<nav class="navbar">
+<nav class="navbar" role="navigation" aria-label="Main Navigation">
     <div class="nav-links">
         <a href="../../index.html">Home</a>
         <a href="../shlokas/shlokas.html">Shlokas</a>
-        <a class="active" href="../story/story.html">Story</a>
+        <a class="active" href="../story/story.html" aria-current="page">Story</a>
         <a href="../guidance/guidance.html">Guidance</a>
         <a href="../support/support.html">Support</a>
     </div>
 </nav>
 
-<!-- Language Toggle -->
-<div class="language-toggle">
-    <button class="lang-btn active" data-lang="hindi">हिंदी</button>
-    <button class="lang-btn" data-lang="english">English</button>
+<div class="language-toggle" role="group" aria-label="Language Selector">
+    <button class="lang-btn active" data-lang="hindi" aria-pressed="true">हिंदी</button>
+    <button class="lang-btn" data-lang="english" aria-pressed="false">English</button>
 </div>
 
-<!-- Main Content -->
 <main class="container">
-    <section class="intro">
-        <h1>Understanding the Bhagavad Gita</h1>
-        <p>
-            This section presents the Bhagavad Gita as a continuous narrative —
-            combining story, explanation, and modern insight to support deep understanding.
-        </p>
-    </section>
+    <article class="story-content">
+        <header class="intro">
+            <h1>Understanding the Bhagavad Gita</h1>
+            <p>
+                This section presents the Bhagavad Gita as a <strong>continuous narrative</strong> — 
+                combining story, explanation, and modern insight to support deep understanding.
+            </p>
+        </header>
 
-    <!-- Story Content -->
-    <div id="story-container"></div>
+        <div id="story-container" aria-live="polite">
+            <p>Loading the story of the Gita...</p>
+        </div>
+    </article>
 </main>
 
 <div class="spacer"></div>
 
-<!-- JS -->
 <script src="../../js/story/story.js"></script>
 
 </body>
 </html>
-
-
-
