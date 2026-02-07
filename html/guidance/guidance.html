@@ -2,48 +2,68 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Bhagavad Gita – Guidance</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Gita Guidance: Solutions for Real-World Challenges</title>
+    <meta name="description" content="Find practical, non-preaching guidance for life's challenges inspired by the Bhagavad Gita. Solutions for stress, duty, and mental clarity in English and Hindi.">
+    <meta name="keywords" content="Bhagavad Gita guidance, life problems solution, Gita in Hindi, mental clarity, stress management Gita">
 
-    <!-- Font -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "How to handle life's challenges with the Bhagavad Gita?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Gita provides a structured body of knowledge to understand human psychology and respond to conflict with clarity and duty."
+        }
+      }]
+    }
+    </script>
+
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-    <!-- CSS -->
     <link rel="stylesheet" href="../../css/guidance/guidance.css">
 </head>
 <body>
 
-<nav class="navbar">
+<nav class="navbar" role="navigation" aria-label="Main Navigation">
     <div class="nav-links">
         <a href="../../index.html">Home</a>
         <a href="../shlokas/shlokas.html">Shlokas</a>
         <a href="../story/story.html">Story</a>
-        <a class="active" href="../guidance/guidance.html">Guidance</a>
+        <a class="active" href="../guidance/guidance.html" aria-current="page">Guidance</a>
         <a href="../support/support.html">Support</a>
     </div>
 </nav>
 
 <main class="container">
 
-    <section class="page-header">
+    <article class="page-header">
         <h1>Guidance for Life Situations</h1>
         <p>
-            Practical guidance inspired by the Bhagavad Gita,
-            presented without preaching — only clarity.
+            Practical guidance inspired by the Bhagavad Gita, 
+            presented without preaching — <strong>only clarity.</strong>
         </p>
-    </section>
+    </article>
 
     <div class="table-wrapper">
-        <table class="guidance-table">
+        <table class="guidance-table" aria-label="Life Problems and Gita Solutions">
             <thead>
                 <tr>
-                    <th>Problem (English)</th>
-                    <th>समस्या (Hindi)</th>
-                    <th>Open</th>
+                    <th scope="col">Problem (English)</th>
+                    <th scope="col">समस्या (Hindi)</th>
+                    <th scope="col">Action</th>
                 </tr>
             </thead>
             <tbody id="guidance-body">
-                <!-- JS renders -->
+                <noscript>
+                    <tr>
+                        <td colspan="3">Please enable JavaScript to view the Gita guidance table.</td>
+                    </tr>
+                </noscript>
             </tbody>
         </table>
     </div>
@@ -55,8 +75,3 @@
 <script src="../../js/guidance/guidance.js"></script>
 </body>
 </html>
-
-
-
-
-
