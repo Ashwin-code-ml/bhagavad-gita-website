@@ -6,14 +6,17 @@
     
     <title>Bhagavad Gita – Chapter Commentary & Verses</title>
     <meta name="description" content="Read full Sanskrit shlokas with English translations and meanings for this chapter of the Bhagavad Gita.">
-    
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
+    <!-- Canonical (will be updated dynamically) -->
+    <link rel="canonical" id="canonical-link" href="https://gita-verse.com/html/shlokas/chapter.html">
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../../css/shlokas/chapter.css">
 </head>
+
 <body>
 
-    <nav class="navbar" role="navigation">
+    <nav class="navbar" role="navigation" aria-label="Main Navigation">
         <div class="nav-links">
             <a href="../../index.html">Home</a>
             <a class="active" href="../shlokas/shlokas.html">Shlokas</a>
@@ -23,7 +26,9 @@
         </div>
     </nav>
 
-    <button class="back-btn" onclick="goBack()" aria-label="Go back to chapters list">← Back to Chapters</button>
+    <button class="back-btn" onclick="goBack()" aria-label="Go back to chapters list">
+        ← Back to Chapters
+    </button>
 
     <main class="container">
         <article class="chapter-content">
@@ -41,8 +46,22 @@
     <div class="spacer"></div>
 
     <script src="../../js/shlokas/chapter.js"></script>
+
     <script>
-        function goBack() { window.history.back(); }
+        function goBack() { 
+            window.history.back(); 
+        }
+
+        // Dynamic Canonical Update
+        (function () {
+            const params = new URLSearchParams(window.location.search);
+            const chapter = params.get("chapter");
+            if (chapter) {
+                const canonical = document.getElementById("canonical-link");
+                canonical.href = `https://gita-verse.com/html/shlokas/chapter.html?chapter=${chapter}`;
+            }
+        })();
     </script>
+
 </body>
 </html>
