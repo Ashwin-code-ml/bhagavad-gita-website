@@ -3,65 +3,79 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <title>Bhagavad Gita – Chapter Commentary & Verses</title>
     <meta name="description" content="Read full Sanskrit shlokas with English translations and meanings for this chapter of the Bhagavad Gita.">
+    <meta name="author" content="Ashwin">
 
-    <!-- Canonical (will be updated dynamically) -->
+    <!-- Canonical (dynamic safe version) -->
     <link rel="canonical" id="canonical-link" href="https://gita-verse.com/html/shlokas/chapter.html">
 
+    <!-- Open Graph -->
+    <meta property="og:title" content="Bhagavad Gita – Chapter Commentary & Verses">
+    <meta property="og:description" content="Sanskrit shlokas with English translation and explanation.">
+    <meta property="og:type" content="article">
+    <meta property="og:url" id="og-url" content="https://gita-verse.com/html/shlokas/chapter.html">
+
+    <!-- Fonts & CSS -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../../css/shlokas/chapter.css">
+    <link rel="stylesheet" href="/css/shlokas/chapter.css">
 </head>
 
 <body>
 
-    <nav class="navbar" role="navigation" aria-label="Main Navigation">
-        <div class="nav-links">
-            <a href="../../index.html">Home</a>
-            <a class="active" href="../shlokas/shlokas.html">Shlokas</a>
-            <a href="../story/story.html">Story</a>
-            <a href="../guidance/guidance.html">Guidance</a>
-            <a href="../support/support.html">Support</a>
-        </div>
-    </nav>
+<nav class="navbar" role="navigation" aria-label="Main Navigation">
+    <div class="nav-links">
+        <a href="/">Home</a>
+        <a class="active" href="/html/shlokas/shlokas.html">Shlokas</a>
+        <a href="/html/story/story.html">Story</a>
+        <a href="/html/guidance/guidance.html">Guidance</a>
+        <a href="/html/support/support.html">Support</a>
+    </div>
+</nav>
 
-    <button class="back-btn" onclick="goBack()" aria-label="Go back to chapters list">
-        ← Back to Chapters
-    </button>
+<button class="back-btn" onclick="goBack()" aria-label="Go back to chapters list">
+    ← Back to Chapters
+</button>
 
-    <main class="container">
-        <article class="chapter-content">
-            <header class="chapter-header">
-                <h1 id="chapter-title">Bhagavad Gita Chapter</h1>
-                <p id="chapter-subtitle">Loading divine wisdom...</p>
-            </header>
+<main class="container">
+    <article class="chapter-content">
+        <header class="chapter-header">
+            <h1 id="chapter-title">Bhagavad Gita Chapter</h1>
+            <p id="chapter-subtitle">Loading divine wisdom...</p>
+        </header>
 
-            <section id="shlokas-container" class="shlokas" aria-live="polite">
-                <p>Loading verses...</p>
-            </section>
-        </article>
-    </main>
+        <section id="shlokas-container" class="shlokas" aria-live="polite">
+            <p>Loading verses...</p>
+        </section>
+    </article>
+</main>
 
-    <div class="spacer"></div>
+<div class="spacer"></div>
 
-    <script src="../../js/shlokas/chapter.js"></script>
+<script src="/js/shlokas/chapter.js"></script>
 
-    <script>
-        function goBack() { 
-            window.history.back(); 
-        }
+<script>
+function goBack() { 
+    window.history.back(); 
+}
 
-        // Dynamic Canonical Update
-        (function () {
-            const params = new URLSearchParams(window.location.search);
-            const chapter = params.get("chapter");
-            if (chapter) {
-                const canonical = document.getElementById("canonical-link");
-                canonical.href = `https://gita-verse.com/html/shlokas/chapter.html?chapter=${chapter}`;
-            }
-        })();
-    </script>
+/* Dynamic Canonical + OG Update */
+(function () {
+    const params = new URLSearchParams(window.location.search);
+    const chapter = params.get("chapter");
+
+    if (chapter) {
+        const base = "https://gita-verse.com/html/shlokas/chapter.html";
+        const fullUrl = `${base}?chapter=${chapter}`;
+
+        document.getElementById("canonical-link").href = fullUrl;
+        document.getElementById("og-url").setAttribute("content", fullUrl);
+
+        document.title = `Bhagavad Gita – Chapter ${chapter} Commentary & Verses`;
+    }
+})();
+</script>
 
 </body>
 </html>
